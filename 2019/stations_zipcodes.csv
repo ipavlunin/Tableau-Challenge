@@ -1,0 +1,927 @@
+,stationid,lat,lon,Location,Zipcode
+0,72.0,40.76727216,-73.99392888,"Citi Bike - W 52 St & 11 Ave, West 52nd Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10019, United States",10019
+1,79.0,40.71911552,-74.00666661,"Citi Bike - Franklin St & W Broadway, Franklin Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10005, United States",10005
+2,82.0,40.71117416,-74.00016545,"Citi Bike - St James Pl & Pearl St, Pearl Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10038, United States",10038
+3,83.0,40.68382604,-73.97632328,"Citi Bike - Atlantic Ave & Fort Greene Pl, Atlantic Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11208, United States",11208
+4,119.0,40.69608941,-73.97803415,"Citi Bike - Park Ave & St Edwards St, Park Avenue, Fort Greene, Brooklyn, Kings County, New York, 11251, United States",11251
+5,120.0,40.68676793,-73.95928168,"Citi Bike - Lexington Ave & Classon Ave, Lexington Avenue, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11221, United States",11221
+6,127.0,40.73172428,-74.00674436,"Citi Bike - Barrow St & Hudson St, Barrow Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+7,128.0,40.72710258,-74.00297088,"Citi Bike - MacDougal St & Prince St, MacDougal Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+8,143.0,40.69239502,-73.99337909,"Citi Bike - Clinton St & Joralemon St, Clinton Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11231, United States",11231
+9,144.0,40.69839895,-73.98068914,"Citi Bike, Navy Street, Brooklyn, Kings County, New York, 11251, United States",11251
+10,146.0,40.71625008,-74.0091059,"Citi Bike - Hudson St & Reade St, Hudson Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10014, United States",10014
+11,150.0,40.7208736,-73.98085795,"Citi Bike - E 2 St & Avenue C, East 2nd Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10002-1013, United States",10002-1013
+12,151.0,40.72210378668603,-73.99724900722505,"Petrosino Square Park, Cleveland Place, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+13,157.0,40.69089272,-73.99612349,"Citi Bike - Henry St & Atlantic Ave, Henry Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11231, United States",11231
+14,161.0,40.72917025,-73.99810231,"New York University, Waverly Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+15,164.0,40.75323098,-73.97032517,"Citibike - E 47 St & 2 Ave, East 47th Street, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10017, United States",10017
+16,167.0,40.7489006,-73.97604882,"Citi Bike - E 39 St & 3 Ave, East 39th Street, Murray Hill, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+17,168.0,40.73971301,-73.99456405,"Citi Bike - W 18 St & 6 Ave, West 18th Street, Chelsea, Manhattan Community Board 5, Manhattan, New York County, New York, 10011, United States",10011
+18,173.0,40.76068327096592,-73.98452728986742,"Crowne Plaza Times Square, 1605, Broadway, Theater District, Times Square, Manhattan, New York County, New York, 10019, United States",10019
+19,174.0,40.7381765,-73.97738662,"Citi Bike - E 25 St & 1 Ave, East 25th Street, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10010, United States",10010
+20,195.0,40.70905623,-74.01043382,"Citi Bike - Liberty St & Broadway, Liberty Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10005, United States",10005
+21,212.0,40.74334935,-74.00681753,"Citi Bike - W 16 St & The High Line, West 16th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+22,216.0,40.70037867,-73.99548059,"Citi Bike - Columbia Heights & Cranberry St, Brooklyn-Queens Expressway, Brooklyn Heights, Brooklyn, Kings County, New York, 11201-1832, United States",11201-1832
+23,217.0,40.70277159,-73.99383605,"Citi Bike - Old Fulton St, Old Fulton Street, DUMBO, Brooklyn, Kings County, New York, 11201-1832, United States",11201-1832
+24,223.0,40.73781509,-73.99994661,"Citi Bike - W 13 St & 7 Ave, West 13th Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10011, United States",10011
+25,224.0,40.71146364,-74.00552427,"Citi Bike - Spruce St & Nassau St, Spruce Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+26,228.0,40.7546011026,-73.971878855,"The Buchanan, 160, East 48th Street, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10017, United States",10017
+27,229.0,40.72743423,-73.99379025,"Citi Bike - Great Jones St, Great Jones Street, NoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+28,236.0,40.7284186,-73.98713956,"Citi Bike - St Marks Pl & 2 Ave, Saint Mark's Place, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",10003
+29,237.0,40.73047309,-73.98672378,"Citi Bike - E 11 St & 2 Ave, East 11th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+30,238.0,40.7361967,-74.00859207,"Citi Bike - Bank St & Washington St, Bank Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+31,239.0,40.69196566,-73.9813018,"Citi Bike, Willoughby Street, Downtown Brooklyn, Brooklyn, Kings County, New York, 11201, United States",11201
+32,241.0,40.68981035,-73.97493121,"Citi Bike - DeKalb Ave & S Portland Ave, DeKalb Avenue, Fort Greene, Brooklyn, Kings County, New York, 11221, United States",11221
+33,242.0,40.697787,-73.973736,"Citi Bike, Carlton Avenue, Fort Greene, Brooklyn, Kings County, New York, 11238, United States",11238
+34,243.0,40.688226,-73.979382,"Citi Bike - Fulton St & Rockwell Pl, Fulton Street, Fort Greene, Brooklyn, Kings County, New York, 11207, United States",11207
+35,244.0,40.69196035,-73.96536851,"Citi Bike - Willoughby Ave & Hall St, Willoughby Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11205, United States",11205
+36,245.0,40.69327018,-73.97703874,"Citi Bike, Myrtle Avenue, Fort Greene, Brooklyn, Kings County, New York, 11237, United States",11237
+37,247.0,40.73535398,-74.00483091,"Citi Bike - Perry St & Bleecker St, Perry Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+38,248.0,40.72185379,-74.00771779,"Citi Bike - Laight St & Hudson St, Laight Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10013, United States",10013
+39,249.0,40.71870987,-74.0090009,"Citi Bike - Harrison St & Hudson St, Harrison Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10013, United States",10013
+40,251.0,40.72317958,-73.99480012,"Citi Bike - Mott St & Prince St, Mott Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+41,252.0,40.73226398,-73.99852205,"Citi Bike - MacDougal St & Washington Sq, Washington Square North, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10011-6832, United States",10011-6832
+42,254.0,40.73532427,-73.99800419,"Citi Bike - W 11 St & 6 Ave, West 11th Street, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+43,257.0,40.71939226,-74.00247214,"Citi Bike - Lispenard St & Broadway, Lispenard Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10013, United States",10013
+44,258.0,40.68940747,-73.96885458,"Citi Bike - DeKalb Ave & Vanderbilt Ave, DeKalb Avenue, Fort Greene, Brooklyn, Kings County, New York, 11221, United States",11221
+45,259.0,40.70122128,-74.01234218,"Battery Maritime Building, 10, South Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",10004
+46,260.0,40.70365182,-74.01167797,"Citi Bike - Broad St & Bridge St, Bridge Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",10004
+47,261.0,40.69474881,-73.98362464,"Citi Bike, Johnson Street, Brooklyn, Kings County, New York, 11201, United States",11201
+48,262.0,40.6917823,-73.97372990000002,"Citi Bike, Washington Park, Fort Greene, Brooklyn, Kings County, New York, 11205, United States",11205
+49,264.0,40.70706456,-74.00731853,"Citi Bike - Maiden Ln & Pearl St, Maiden Lane, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+50,265.0,40.72229346,-73.99147535,"Citi Bike - Stanton St & Chrystie St, Stanton Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10012-3332, United States",10012-3332
+51,266.0,40.72368361,-73.97574813,"Citi Bike - Avenue D & E 8 St, East 8th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009:10010, United States",10009:10010
+52,267.0,40.75097711,-73.98765428,"Citi Bike - Broadway & W 36 St, Broadway, Garment District, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+53,268.0,40.71910537,-73.99973337,"Citi Bike - Howard St & Centre St, Howard Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",10013
+54,270.0,40.69308257,-73.97178913,"Citi Bike - Adelphi St & Myrtle Ave, Adelphi Street, Fort Greene, Brooklyn, Kings County, New York, 11238, United States",11238
+55,274.0,40.68691865,-73.976682,"Citi Bike - Lafayette Ave & Fort Greene Pl, Lafayette Avenue, Fort Greene, Brooklyn, Kings County, New York, 11221, United States",11221
+56,275.0,40.68650065,-73.96563307,"Citi Bike - Washington Ave & Greene Ave, Washington Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11238, United States",11238
+57,276.0,40.71748752,-74.0104554,"Citi Bike - Duane St & Greenwich St, Duane Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10007, United States",10007
+58,278.0,40.69766564,-73.98476437,"165, Concord Street, DUMBO, Brooklyn, Kings County, New York, 11201, United States",11201
+59,279.0,40.707873,-74.00166999999998,"Citi Bike - Peck Slip & Front St, Peck Slip, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+60,280.0,40.73331967,-73.99510132,"Citi Bike - E 10 St & 5 Ave, East 10th Street, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10009, United States",10009
+61,281.0,40.7643971,-73.97371465,"Citi Bike - Grand Army Plaza & Central Park S, Grand Army Plaza, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10153, United States",10153
+62,282.0,40.7076449441757,-73.96841526031494,"431, Kent Avenue, Brooklyn, Kings County, New York, 11249, United States",11249
+63,285.0,40.73454567,-73.99074142,"Citi Bike - Broadway & E 14 St, Broadway, East Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+64,289.0,40.6845683,-73.95881081,"Citi Bike - Monroe St & Classon Ave, Monroe Street, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11221, United States",11221
+65,291.0,40.713126,-73.984844,"Citi Bike, Madison Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+66,293.0,40.73020660529954,-73.99102628231049,"Citi Bike - Lafayette St & E 8 St, Lafayette Street, NoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+67,295.0,40.71406667,-73.99293911,"Citi Bike, Pike Street, Chinatown, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+68,296.0,40.71413089,-73.99704679999998,"Citi Bike - Division St & Bowery, Division Street, Chinatown, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+69,297.0,40.734232,-73.986923,"Citi Bike - E 15 St & 3 Ave, East 15th Street, Gramercy, Manhattan Community Board 6, Manhattan, New York County, New York, 10003, United States",10003
+70,298.0,40.68683208,-73.9796772,"Citi Bike - 3 Ave & Schermerhorn St, Flatbush Avenue, Brooklyn, Kings County, New York, 11227, United States",11227
+71,301.0,40.72217444,-73.98368779,"Citi Bike - E 2 St & Avenue B, East 2nd Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+72,302.0,40.72082834,-73.97793172,"Citi Bike - Avenue D & E 3 St, Avenue D, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009:10010, United States",10009:10010
+73,303.0,40.72362738,-73.99949601,"Citi Bike - Mercer St & Spring St, Mercer Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+74,304.0,40.70463334,-74.01361706,"Citi Bike - Broadway & Battery Pl, Battery Place, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10275, United States",10275
+75,305.0,40.76095756,-73.96724467,"Citi Bike - E 58 St & 3 Ave, East 58th Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+76,307.0,40.71427487,-73.98990025,"Citi Bike, Canal Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+77,308.0,40.71307916,-73.99851193,"Citi Bike - St James Pl & Oliver St, Pearl Street, Civic Center, Manhattan Community Board 3, Manhattan, New York County, New York, 10038, United States",10038
+78,309.0,40.7149787,-74.013012,"Citi Bike - Murray St & West St, West Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10281, United States",10281
+79,310.0,40.68926942,-73.98912867,"Brooklyn Detention Complex, State Street, Boerum Hill, Brooklyn, Kings County, New York, 11217, United States",11217
+80,311.0,40.7172274,-73.98802084,"Citi Bike - Norfolk St & Broome St, Norfolk Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+81,312.0,40.722055,-73.989111,"Citi Bike - Allen St & E Houston St, Allen Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+82,313.0,40.69610226,-73.96751037,"Citi Bike - Washington Ave & Park Ave, Washington Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11238, United States",11238
+83,314.0,40.69383,-73.990539,"Citi Bike - Cadman Plaza West & Montague St, Montague Street, Cobble Hill, Brooklyn, Kings County, New York, 11201, United States",11201
+84,315.0,40.70355377,-74.00670227,"Citi Bike - South St & Gouverneur Ln, Pier 11, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10045, United States",10045
+85,316.0,40.70955958,-74.00653609,"Fulton Street, Liberty Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10005, United States",10005
+86,317.0,40.72453734,-73.98185424,"Citi Bike - E 6 St & Avenue B, East 6th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+87,319.0,40.711066,-74.009447,"Citi Bike - Fulton St & Broadway, Fulton Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+88,320.0,40.717571,-74.005549,"Citi Bike - Leonard St & Church St, Leonard Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10013, United States",10013
+89,321.0,40.69991755,-73.98971773,"Citi Bike - Cadman Plaza E & Red Cross Pl, Cadman Plaza East, DUMBO, Brooklyn, Kings County, New York, 11201, United States",11201
+90,323.0,40.69236178,-73.98631746,"Citi Bike - Lawrence St & Willoughby St, Lawrence Street, Downtown Brooklyn, Brooklyn, Kings County, New York, 11201, United States",11201
+91,324.0,40.689888,-73.981013,"Citi Bike - DeKalb Ave & Hudson Ave, DeKalb Avenue, Downtown Brooklyn, Brooklyn, Kings County, New York, 11221, United States",11221
+92,325.0,40.73624527,-73.98473765,"Citi Bike - E 19 St & 3 Ave, East 19th Street, Gramercy, Manhattan Community Board 6, Manhattan, New York County, New York, 10003, United States",10003
+93,326.0,40.72953837,-73.98426726,"Citi Bike - E 11 St & 1 Ave, East 11th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+94,327.0,40.7153379,-74.01658354,"Irish Hunger Memorial, North End Avenue, Battery Park City, Manhattan Community Board 1, Manhattan, New York County, New York, 10282, United States",10282
+95,328.0,40.72405549,-74.00965965,"Citi Bike - Watts St & Greenwich St, Watts Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10005, United States",10005
+96,330.0,40.71450451,-74.00562789,"Citi Bike - Reade St & Broadway, Reade Street, Civic Center, Manhattan Community Board 1, Manhattan, New York County, New York, 10013, United States",10013
+97,331.0,40.71173107,-73.99193043,"65-75, Pike Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+98,332.0,40.71219906,-73.97948148,"Citi Bike, Cherry Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+99,334.0,40.74238787,-73.99726235,"Citi Bike - W 20 St & 7 Ave, West 20th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+100,335.0,40.72903917,-73.99404649,"New York University, Waverly Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+101,336.0,40.73047747,-73.99906065,"New York University, Waverly Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+102,337.0,40.70379920000001,-74.00838676,"Citi Bike - Old Slip & Front St, Old Slip, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10005, United States",10005
+103,339.0,40.72580614,-73.97422494,"Citi Bike - Avenue D & E 12 St, Avenue D, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009:10010, United States",10009:10010
+104,340.0,40.71269042,-73.98776323,"Citi Bike, Madison Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+105,341.0,40.71782143,-73.97628939,"Baruch Playground, Stanton Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+106,342.0,40.71739973,-73.98016555,"Citi Bike - Columbia St & Rivington St, Columbia Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+107,343.0,40.69794,-73.96986848,"Citi Bike - Clinton Ave & Flushing Ave, Clinton Avenue, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11205, United States",11205
+108,344.0,40.6851443,-73.95380904,"Citi Bike - Monroe St & Bedford Ave, Monroe Street, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11221, United States",11221
+109,346.0,40.73652889,-74.00618026,"Citi Bike - Bank St & Hudson St, Bank Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+110,347.0,40.728846,-74.00859100000002,"Citi Bike - Greenwich St & W Houston St, Greenwich Street, Hudson Square, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+111,349.0,40.71850211,-73.98329859,"Citi Bike - Rivington St & Ridge St, Rivington Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+112,350.0,40.71559509,-73.9870295,"Citi Bike, Clinton Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+113,351.0,40.70530954,-74.00612572,"Citi Bike - Front St & Maiden Ln, Pine Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10045, United States",10045
+114,353.0,40.68539567,-73.97431458,"Citi Bike - S Portland Ave & Hanson Pl, South Portland Avenue, Fort Greene, Brooklyn, Kings County, New York, 11217, United States",11217
+115,354.0,40.69363137,-73.96223558,"Citi Bike, Emerson Place, Clinton Hill, Brooklyn, Kings County, New York, 11205, United States",11205
+116,355.0,40.71602118,-73.99974372,"Citi Bike - Bayard St & Baxter St, Bayard Street, Chinatown, Manhattan Community Board 3, Manhattan, New York County, New York, 10013, United States",10013
+117,356.0,40.71622644,-73.98261206,"25, Willett Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+118,357.0,40.73261787,-73.99158043,"Citi Bike - E 11 St & Broadway, East 11th Street, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+119,358.0,40.73291553,-74.00711384,"Citi Bike - Christopher St & Greenwich St, Christopher Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+120,359.0,40.75510267,-73.97498696,"Grand Central Terminal, East 51st Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10022, United States",10022
+121,360.0,40.70717936,-74.00887308,"Group of Four Trees, Chase Manhattan Plaza, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10045, United States",10045
+122,361.0,40.71605866,-73.99190759,"Citi Bike - Allen St & Hester St, Allen Street, Chinatown, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+123,362.0,40.75172632,-73.98753523,"Citi Bike - Broadway & W 37 St, Broadway, Garment District, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+124,363.0,40.70834698,-74.01713445,"Citi Bike - West Thames St, West Thames Street, Battery Park City, Manhattan Community Board 1, Manhattan, New York County, New York, 10280, United States",10280
+125,364.0,40.68900443,-73.96023854,"Citi Bike - Lafayette Ave & Classon Ave, Lafayette Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11221, United States",11221
+126,365.0,40.68223166,-73.9614583,"Citi Bike - Fulton St & Grand Ave, Fulton Street, Prospect Heights, Brooklyn, Kings County, New York, 11207, United States",11207
+127,366.0,40.693261,-73.968896,"Citi Bike - Clinton Ave & Myrtle Ave, Clinton Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11205, United States",11205
+128,368.0,40.73038599,-74.00214988,"Citi Bike - Carmine St & 6 Ave, Carmine Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+129,369.0,40.73224119,-74.00026394,"Citi Bike - Washington Pl & 6 Ave, West Washington Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10011, United States",10011
+130,372.0,40.694546087246025,-73.95801365375519,"Citi Bike - Franklin Ave & Myrtle Ave, Franklin Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11225, United States",11225
+131,373.0,40.69331716,-73.95381995,"Citi Bike - Willoughby Ave & Walworth St, Willoughby Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11205, United States",11205
+132,376.0,40.70862144,-74.00722156,"Citi Bike - John St & William St, John Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+133,377.0,40.72243797,-74.00566443,"Citi Bike - 6 Ave & Canal St, Sullivan Street, Hudson Square, Manhattan Community Board 2, Manhattan, New York County, New York, 10005, United States",10005
+134,379.0,40.749156,-73.9916,"Citi Bike - W 31 St & 7 Ave, West 31st Street, Chelsea, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",10001
+135,380.0,40.73401143,-74.00293877,"Citibike - W 4 St & 7 Ave S, West 4th Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+136,382.0,40.73492695,-73.99200509,"128, University Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+137,383.0,40.735238,-74.000271,"Citi Bike - Greenwich Ave & Charles St, Greenwich Avenue, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+138,385.0,40.75797322,-73.96603308,"Citi Bike - E 55 St & 2 Ave, East 55th Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+139,386.0,40.71494807,-74.00234482,"Citi Bike - Centre St & Worth St, Centre Street, Civic Center, Manhattan Community Board 1, Manhattan, New York County, New York, 10000, United States",10000
+140,387.0,40.71273266,-74.0046073,"Citi Bike - Centre St & Chambers St, Centre Street, Civic Center, Manhattan Community Board 1, Manhattan, New York County, New York, 10000, United States",10000
+141,388.0,40.749717753,-74.002950346,"Citi Bike - W 26 St & 10 Ave, West 26th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, United States",10001
+142,389.0,40.71044554,-73.96525063,"Citi Bike - Broadway & Berry St, Broadway, Brooklyn, Kings County, New York, 11207, United States",11207
+143,390.0,40.69221589,-73.9842844,"Citi Bike, Duffield Street, Downtown Brooklyn, Brooklyn, Kings County, New York, 11201, United States",11201
+144,391.0,40.69760127,-73.99344559,"Citi Bike - Clark St & Henry St, Clark Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11201-1832, United States",11201-1832
+145,392.0,40.695065,-73.987167,"Citi Bike, Jay Street, Downtown Brooklyn, Brooklyn, Kings County, New York, 11201, United States",11201
+146,393.0,40.72299208,-73.97995466,"Citi Bike - E 5 St & Avenue C, East 5th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+147,394.0,40.72521311,-73.97768752,"Citi Bike - E 9 St & Avenue C, East 9th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+148,396.0,40.680342423,-73.9557689392,"Citi Bike - Lefferts Pl & Franklin Ave, Lefferts Place, Brooklyn, Kings County, New York, 11216, United States",11216
+149,397.0,40.68415748,-73.96922273,"Citi Bike - Fulton St & Clermont Ave, Fulton Street, Fort Greene, Brooklyn, Kings County, New York, 11207, United States",11207
+150,398.0,40.69165183,-73.99997859999998,"Citi Bike - Atlantic Ave & Furman St, Columbia Street, Columbia Street Waterfront District, Brooklyn, Kings County, New York, 11231, United States",11231
+151,399.0,40.68851534,-73.9647628,"Citi Bike - Lafayette Ave & St James Pl, Saint James Place, Clinton Hill, Brooklyn, Kings County, New York, 11238, United States",11238
+152,400.0,40.71926081,-73.98178024,"Citi Bike - Pitt St & Stanton St, Stanton Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002-1013, United States",10002-1013
+153,401.0,40.72019576,-73.98997825,"Citi Bike - Allen St & Rivington St, Allen Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+154,402.0,40.74034320000001,-73.98955109,"Citi Bike - Broadway & E 22 St, Broadway, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",10010
+155,403.0,40.72502876,-73.99069656,"Citi Bike - E 2 St & 2 Ave, East 2nd Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+156,405.0,40.739323,-74.008119,"Citi Bike - Washington St & Gansevoort St, Gansevoort Street, Meatpacking District, Manhattan Community Board 2, Manhattan, New York County, New York, 100014, United States",100014
+157,406.0,40.69512845,-73.99595065,"Citi Bike - Hicks St & Montague St, Hicks Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11201, United States",11201
+158,407.0,40.700469,-73.991454,"140, Cadman Plaza West, DUMBO, Brooklyn, Kings County, New York, 11201, United States",11201
+159,408.0,40.71076228,-73.99400398,"Citi Bike, Market Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+160,409.0,40.6906495,-73.95643107,"500, DeKalb Avenue, Fort Greene, Brooklyn, Kings County, New York, 11205, United States",11205
+161,410.0,40.72066442,-73.98517977,"Citi Bike - Suffolk St & Stanton St, Suffolk Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+162,411.0,40.72228087,-73.97668709,"Citi Bike - E 6 St & Avenue D, East 6th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009:10010, United States",10009:10010
+163,412.0,40.71581550000001,-73.99422366,"Citi Bike, Forsyth Street, Chinatown, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+164,414.0,40.70281858,-73.98765762,"DUMBO Historic District Proposal, Brooklyn-Queens Expressway, DUMBO, Brooklyn, Kings County, New York, 11201-1832, United States",11201-1832
+165,415.0,40.7047177,-74.00926027,"Citi Bike - Pearl St & Hanover Square, Pearl Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+166,416.0,40.68753406,-73.97265183,"Citi Bike - Cumberland St & Lafayette Ave, Cumberland Street, Fort Greene, Brooklyn, Kings County, New York, 11238, United States",11238
+167,417.0,40.71291224,-74.01020234,"Citi Bike - Barclay St & Church St, Barclay Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10007, United States",10007
+168,418.0,40.70224,-73.982578,"Citi Bike, Front Street, DUMBO, Brooklyn, Kings County, New York, 11201, United States",11201
+169,419.0,40.69580705,-73.97355569,"Citi Bike, Carlton Avenue, Fort Greene, Brooklyn, Kings County, New York, 11205, United States",11205
+170,420.0,40.68764484,-73.96968902,"Citi Bike - Clermont Ave & Lafayette Ave, Clermont Avenue, Fort Greene, Brooklyn, Kings County, New York, 11238, United States",11238
+171,421.0,40.69573398,-73.97129668,"Citi Bike, Clermont Avenue, Fort Greene, Brooklyn, Kings County, New York, 11238, United States",11238
+172,422.0,40.770513,-73.988038,"John Jay College of Criminal Justice, 11th Avenue, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10018, United States",10018
+173,423.0,40.76584941,-73.98690506,"Citi Bike - W 54 St & 9 Ave, West 54th Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10019, United States",10019
+174,426.0,40.71754834,-74.01322069,"Citi Bike - West St & Chambers St, Hudson River Park Esplanade, Battery Park City, Manhattan Community Board 1, Manhattan, New York County, New York, 10282, United States",10282
+175,427.0,40.701907,-74.013942,"Citi Bike - State St / Battery Park, Peter Minuit Plaza, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",10004
+176,432.0,40.72621788,-73.98379855,"Citi Bike - E 7 St & Avenue A, East 7th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+177,435.0,40.74173969,-73.99415556,"Citi Bike - W 21 St & 6 Ave, West 21st Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+178,436.0,40.68216564,-73.95399026,"Citi Bike - Hancock St & Bedford Ave, Hancock Street, Brooklyn, Kings County, New York, 11233, United States",11233
+179,437.0,40.6809833854,-73.9500479759,"Citi Bike - Macon St & Nostrand Ave, Macon Street, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11233, United States",11233
+180,438.0,40.72779126,-73.98564945,"Citi Bike - St Marks Pl & 1 Ave, Saint Mark's Place, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",10003
+181,439.0,40.7262807,-73.98978041,"Citi Bike - E 4 St & 2 Ave, East 4th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+182,440.0,40.75255434,-73.97282625,"Citi Bike - E 45 St & 3 Ave, East 45th Street, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10017, United States",10017
+183,441.0,40.756014,-73.967416,"Citi Bike - E 52 St & 2 Ave, East 52nd Street, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+184,442.0,40.746647,-73.993915,"Citi Bike - W 27 St & 7 Ave, West 27th Street, Chelsea, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",10001
+185,443.0,40.70853074,-73.96408963,"Citi Bike - Bedford Ave & S 9 St, Bedford Avenue, Brooklyn, Kings County, New York, 11249, United States",11249
+186,445.0,40.72740794,-73.98142006,"Citi Bike - E 10 St & Avenue A, East 10th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+187,446.0,40.74487634,-73.99529885,"Citi Bike - W 24 St & 7 Ave, West 24th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+188,447.0,40.76370739,-73.9851615,"Citi Bike - 8 Ave & W 52 St, 8th Avenue, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10019, United States",10019
+189,448.0,40.75660359,-73.9979009,"Citi Bike - W 37 St & 10 Ave, West 37th Street, Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, New York, 10018, United States",10018
+190,450.0,40.76227205,-73.98788205,"Citi Bike - W 49 St & 8 Ave, West 49th Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10019, United States",10019
+191,453.0,40.74475148,-73.99915362,"Citi Bike - W 22 St & 8 Ave, West 22nd Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+192,454.0,40.75455731,-73.96592976,"Citi Bike - E 51 St & 1 Ave, East 51st Street, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+193,455.0,40.75001986,-73.96905301,"Citi Bike - 1 Ave & E 44 St, 1st Avenue Tunnel, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10017-6927, United States",10017-6927
+194,456.0,40.75971079999999,-73.97402311,"Citi Bike - E 53 St & Madison Ave, East 53rd Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10055, United States",10055
+195,458.0,40.751396,-74.00522600000002,"La Colombe Coffee Roasters, 601, West 27th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, United States",10001
+196,459.0,40.746745,-74.007756,"Citi Bike - W 20 St & 11 Ave, West 20th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+197,460.0,40.71285887,-73.96590294,"Citi Bike - S 4 St & Wythe Ave, South 4th Street, Brooklyn, Kings County, New York, 11211, United States",11211
+198,461.0,40.73587678,-73.98205027,"Citi Bike - E 20 St & 2 Ave, East 20th Street, Gramercy, Manhattan Community Board 6, Manhattan, New York County, New York, 10010, United States",10010
+199,462.0,40.74691959,-74.00451887,"Citi Bike - W 22 St & 10 Ave, West 22nd Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+200,465.0,40.75513557,-73.98658032,"42nd Street–Times Square–Port Authority Bus Terminal, West 43rd Street, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",10036
+201,466.0,40.74395411,-73.99144871,"Citi Bike - W 25 St & 6 Ave, West 25th Street, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",10001
+202,467.0,40.68312489,-73.97895137,"Citi Bike - Dean St & 4 Ave, Dean Street, Park Slope, Brooklyn, Kings County, New York, 11213, United States",11213
+203,468.0,40.7652654,-73.98192338,"Citi Bike - Broadway & W 55 St, Broadway, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10107, United States",10107
+204,469.0,40.76344058,-73.98268129,"Citi Bike - Broadway & W 53 St, Broadway, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 10107, United States",10107
+205,470.0,40.74345335,-74.00004031,"Citi Bike - W 20 St & 8 Ave, West 20th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+206,471.0,40.71286844,-73.95698119,"Citi Bike, Grand Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+207,472.0,40.74571210000001,-73.98194829,"Citi Bike - E 32 St & Park Ave, East 32nd Street, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10016, United States",10016
+208,473.0,40.72110063,-73.99192540000001,"Citi Bike - Rivington St & Chrystie St, Rivington Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10012-3332, United States",10012-3332
+209,474.0,40.7451677,-73.98683077,"Citi Bike - 5 Ave & E 29 St, 5th Avenue, NoMad, Manhattan Community Board 5, Manhattan, New York County, New York, 10035, United States",10035
+210,476.0,40.74394314,-73.97966069,"Citi Bike - E 31 St & 3 Ave, East 31st Street, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+211,477.0,40.75640548,-73.9900262,"Citi Bike - W 41 St & 8 Ave, West 41st Street, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",10036
+212,478.0,40.76030096,-73.99884222,"Citi Bike - 11 Ave & W 41 St, 11th Avenue, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10018, United States",10018
+213,479.0,40.76019252,-73.9912551,"Citi Bike - 9 Ave & W 45 St, 9th Avenue, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 100036, United States",100036
+214,480.0,40.76669671,-73.99061728,"Citi Bike - W 53 St & 10 Ave, West 53rd Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10019, United States",10019
+215,481.0,40.71260486,-73.96264403,"Citi Bike - S 3 St & Bedford Ave, South 3rd Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+216,482.0,40.73935542,-73.99931783,"Citi Bike - W 15 St & 7 Ave, West 15th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+217,483.0,40.73223272,-73.98889957,"Citi Bike - E 12 St & 3 Ave, East 12th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+218,484.0,40.75500254,-73.98014437,"530 5th Avenue, 530, 5th Avenue, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",10036
+219,485.0,40.75038009,-73.98338988,"Citi Bike - W 37 St & 5 Ave, West 37th Street, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10018, United States",10018
+220,486.0,40.7462009,-73.98855723,"Citi Bike - Broadway & W 29 St, Broadway, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+221,487.0,40.73314259,-73.97573881,"Citi Bike - E 20 St & FDR Drive, East 20th Street, Stuy Town, Manhattan Community Board 6, Manhattan, New York County, New York, 10009:10010, United States",10009:10010
+222,490.0,40.751551,-73.993934,"34th Street - Penn Station, West 33rd Street, Chelsea, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, United States",10001
+223,491.0,40.74096374,-73.98602213,"Citi Bike - E 24 St & Park Ave S, East 24th Street, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",10010
+224,492.0,40.75019995,-73.99093085,"Pennsylvania Station, West 36th Street, Garment District, Manhattan Community Board 5, Manhattan, New York County, New York, 10018, United States",10018
+225,493.0,40.7568001,-73.98291153,"Citi Bike - W 45 St & 6 Ave, West 45th Street, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",10036
+226,494.0,40.74734825,-73.99723551,"Citi Bike - W 26 St & 8 Ave, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10018-4527, United States",10018-4527
+227,495.0,40.76269882,-73.99301222,"Citi Bike - W 47 St & 10 Ave, West 47th Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10036, United States",10036
+228,496.0,40.73726186,-73.99238967,"Citi Bike - E 16 St & 5 Ave, East 16th Street, Union Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10003, United States",10003
+229,497.0,40.73704984,-73.99009296,"Citi Bike - E 17 St & Broadway, East 17th Street, Union Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",10010
+230,498.0,40.74854862,-73.98808416,"34th Street–Herald Square, Broadway, Herald Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+231,499.0,40.76915505,-73.98191841,"Citi Bike - Broadway & W 60 St, Broadway, Columbus Circle, Manhattan Community Board 7, Manhattan, New York County, New York, 10034, United States",10034
+232,500.0,40.76228826,-73.98336183,"Citi Bike - Broadway & W 51 St, Broadway, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 10107, United States",10107
+233,501.0,40.744219,-73.97121214,"Citi Bike - FDR Drive & E 35 St, FDR Drive Greenway, Murray Hill, Manhattan Community Board 6, Manhattan, New York County, New York, 10017-6927, United States",10017-6927
+234,502.0,40.714215,-73.981346,"Citi Bike, Henry Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+235,503.0,40.73827428,-73.98751968,"Citi Bike - E 20 St & Park Ave, East 20th Street, Gramercy, Manhattan Community Board 5, Manhattan, New York County, New York, 10003, United States",10003
+236,504.0,40.73221853,-73.98165557,"Citi Bike - 1 Ave & E 15 St, 1st Avenue, Stuy Town, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",10009
+237,505.0,40.74901271,-73.98848395,"34th Street–Herald Square, Broadway, Herald Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+238,507.0,40.73912601,-73.97973776,"Citi Bike - E 25 St & 2 Ave, East 25th Street, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10010, United States",10010
+239,508.0,40.76341379,-73.99667444,"Citi Bike - W 46 St & 11 Ave, West 46th Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10036, United States",10036
+240,509.0,40.7454973,-74.00197139,"Citi Bike - 9 Ave & W 22 St, 9th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 100014, United States",100014
+241,513.0,40.768254,-73.988639,"455, West 56th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+242,514.0,40.76087502,-74.00277668,"Citi Bike - 12 Ave & W 40 St, Hudson River Park Esplanade, Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, New York, 100036, United States",100036
+243,515.0,40.76009437,-73.99461843,"Citi Bike - W 43 St & 10 Ave, West 43rd Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10036, United States",10036
+244,516.0,40.75206862,-73.96784384,"Citi Bike - E 47 St & 1 Ave, Dag Hammarskjold Plaza, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10017-6927, United States",10017-6927
+245,517.0,40.751581,-73.97791,"Citi Bike - Pershing Square South, Park Avenue, Murray Hill, Manhattan Community Board 5, Manhattan, New York County, New York, 10037, United States",10037
+246,518.0,40.74780373,-73.97344190000003,"Citi Bike - E 39 St & 2 Ave, East 39th Street, Murray Hill, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+247,519.0,40.751873,-73.97770600000003,"Citi Bike - Pershing Square North, Park Avenue, Murray Hill, Manhattan Community Board 5, Manhattan, New York County, New York, 10037, United States",10037
+248,520.0,40.75992262,-73.97648516,"Citi Bike - W 52 St & 5 Ave, West 52nd Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+249,522.0,40.75714758,-73.97207836,"Citi Bike - E 51 St & Lexington Ave, East 51st Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10022, United States",10022
+250,523.0,40.75466591,-73.99138152,"Citi Bike - W 38 St & 8 Ave, West 38th Street, Garment District, Manhattan Community Board 5, Manhattan, New York County, New York, 10018, United States",10018
+251,524.0,40.75527307,-73.98316936,"Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, United States",
+252,525.0,40.75594159,-74.0021163,"Citi Bike - W 34 St & 11 Ave, West 34th Street, Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, United States",10001
+253,526.0,40.74765947,-73.98490707,"Citi Bike - E 33 St & 5 Ave, East 33rd Street, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10016, United States",10016
+254,528.0,40.74290902,-73.97706058,"Citi Bike - 2 Ave & E 31 St, East 31st Street, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+255,529.0,40.75756989999999,-73.99098507,"Port Authority Bus Terminal, 625, 8th Avenue, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 100036, United States",100036
+256,530.0,40.771496710544405,-73.99046033620834,"John Jay College of Criminal Justice, 11th Avenue, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10018, United States",10018
+257,531.0,40.71893904,-73.99266288,"Citi Bike - Forsyth St & Broome St, Broome Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+258,532.0,40.710451,-73.960876,"Citi Bike, South 5th Place, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",11249
+259,533.0,40.75299641,-73.98721619,"Citi Bike - Broadway & W 39 St, Broadway, Garment District, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+260,534.0,40.70255065,-74.0127234,"Citi Bike - Water - Whitehall Plaza, New York Plaza, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",10004
+261,536.0,40.74144387,-73.97536082,"Citi Bike - 1 Ave & E 30 St, 1st Avenue, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10002-1013, United States",10002-1013
+262,539.0,40.71534825,-73.96024116,"Citi Bike, Bedford Avenue, Greenpoint, Brooklyn, Kings County, New York, 11249, United States",11249
+263,540.0,40.74311555376486,-73.98215353488922,"Citi Bike - Lexington Ave & E 29 St, Lexington Avenue, Rose Hill, Manhattan Community Board 5, Manhattan, New York County, New York, 10037, United States",10037
+264,545.0,40.736502,-73.97809472,"Citi Bike - E 23 St & 1 Ave, East 23rd Street, Stuy Town, Manhattan Community Board 6, Manhattan, New York County, New York, 10010, United States",10010
+265,546.0,40.74444921,-73.98303529,"Citi Bike - E 30 St & Park Ave S, East 30th Street, Rose Hill, Manhattan Community Board 5, Manhattan, New York County, New York, 10016, United States",10016
+266,2000.0,40.70255088,-73.98940236,"DUMBO Historic District Proposal, Brooklyn-Queens Expressway, DUMBO, Brooklyn, Kings County, New York, 11201-1832, United States",11201-1832
+267,2002.0,40.716887,-73.96319799999998,"Citi Bike - Wythe Ave & Metropolitan Ave, Wythe Avenue, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+268,2003.0,40.73381219196632,-73.9805442094803,"Citi Bike - 1 Ave & E 18 St, 1st Avenue service road, Stuy Town, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",10009
+269,2005.0,40.70531194,-73.97100056,"Citi Bike, Railroad Avenue, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States",11251
+270,2006.0,40.76590936,-73.97634151,"Citi Bike - Central Park S & 6 Ave, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",10107
+271,2008.0,40.70569254,-74.01677685,"Citi Bike - Little West St & 1 Pl, 1st Place, Battery Park City, Manhattan Community Board 1, Manhattan, New York County, New York, 10280, United States",10280
+272,2009.0,40.71117444,-73.99682619,"Citi Bike - Catherine St & Monroe St, Catherine Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10038, United States",10038
+273,2010.0,40.72165481,-74.00234737,"Citi Bike - Grand St & Greene St, Grand Street, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",10013
+274,2012.0,40.739445,-73.97680600000002,"445, 1st Avenue, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+275,2021.0,40.75929124,-73.98859651,"Citi Bike - W 45 St & 8 Ave, West 45th Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10036, United States",10036
+276,2022.0,40.759107,-73.959223,"Citi Bike - E 60 St & York Ave, York Avenue, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10155, United States",10155
+277,2023.0,40.75968085,-73.97031366,"Citi Bike - E 55 St & Lexington Ave, East 55th Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10022, United States",10022
+278,3002.0,40.711512,-74.01575600000002,"Citi Bike - South End Ave & Liberty St, Liberty Street, Battery Park City, Manhattan Community Board 1, Manhattan, New York County, New York, 10005, United States",10005
+279,3016.0,40.72036775298455,-73.96165072917937,"117, Kent Avenue, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",11249
+280,3041.0,40.67890679,-73.94142771,"31, Kingston Avenue, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11213, United States",11213
+281,3042.0,40.6794268,-73.92989109999998,"Fulton Park Plaza, 1725, Fulton Street, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11233, United States",11233
+282,3043.0,40.6814598,-73.934903,"The Pantry, Lewis Avenue, BEDFORD STUYVESANT/ EXPANDED STUYVEVSANT HEIGHTS HISTORIC DISTRICT, Brooklyn, Kings County, New York, 11206, United States",11206
+283,3044.0,40.6800105,-73.938475,"32, Albany Avenue, BEDFORD STUYVESANT/ EXPANDED STUYVEVSANT HEIGHTS HISTORIC DISTRICT, Brooklyn, Kings County, New York, 11216, United States",11216
+284,3046.0,40.682601,-73.938037,"418, Marcus Garvey Boulevard, Sumner Houses, Brooklyn, Kings County, New York, 11216, United States",11216
+285,3047.0,40.68236870000001,-73.944118,"Halsey Street & Tompkins Avenue, Halsey Street, BEDFORD STUYVESANT/ EXPANDED STUYVEVSANT HEIGHTS HISTORIC DISTRICT, Brooklyn, Kings County, New York, 11233, United States",11233
+286,3048.0,40.68402,-73.94977,"222, Madison Street, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11221, United States",11221
+287,3049.0,40.68488,-73.96304,"73, Cambridge Place, Clinton Hill, Brooklyn, Kings County, New York, 11238, United States",11238
+288,3050.0,40.6851532,-73.94111,"512, Putnam Avenue, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11221, United States",11221
+289,3052.0,40.686312,-73.935775,"280, Lewis Avenue, BEDFORD STUYVESANT/ EXPANDED STUYVEVSANT HEIGHTS HISTORIC DISTRICT, Brooklyn, Kings County, New York, 11221, United States",11221
+290,3053.0,40.6900815,-73.94791500000002,"661, Lafayette Avenue, Brooklyn, Kings County, New York, 11216, United States",11216
+291,3054.0,40.6894932,-73.942061,"665, Greene Avenue, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11221, United States",11221
+292,3055.0,40.68833370000001,-73.950916,"498, Greene Avenue, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11216, United States",11216
+293,3056.0,40.69072549,-73.95133465,"89, Kosciuszko Street, Brooklyn, Kings County, New York, 11216, United States",11216
+294,3057.0,40.69128258,-73.9452416,"238, Kosciuszko Street, Brooklyn, Kings County, New York, 11221, United States",11221
+295,3058.0,40.69237074,-73.93705428,"430, Kosciuszko Street, Brooklyn, Kings County, New York, 11221, United States",11221
+296,3059.0,40.6933982,-73.939877,"285, Pulaski Street, Brooklyn, Kings County, New York, 11206, United States",11206
+297,3060.0,40.69425403,-73.94626915,"Citi Bike - Willoughby Ave & Tompkins Ave, Willoughby Avenue, Brooklyn, Kings County, New York, 11221, United States",11221
+298,3061.0,40.69622937,-73.94371094,"220, Throop Avenue, BEDFORD STUYVESANT/ EXPANDED STUYVEVSANT HEIGHTS HISTORIC DISTRICT, Brooklyn, Kings County, New York, 11206, United States",11206
+299,3062.0,40.69539817,-73.94954908,"Citi Bike, Myrtle Avenue, Clinton Hill, Brooklyn, Kings County, New York, 11237, United States",11237
+300,3063.0,40.69527008,-73.95238108,"Citi Bike, Nostrand Avenue, Brooklyn, Kings County, New York, 11235, United States",11235
+301,3064.0,40.69681963,-73.93756926,"Citi Bike, Myrtle Avenue, Brooklyn, Kings County, New York, 11237, United States",11237
+302,3065.0,40.70029511,-73.95032283,"Citi Bike, Union Avenue, Brooklyn, Kings County, New York, 11211, United States",11211
+303,3066.0,40.69957608,-73.94708417,"Citi Bike, Tompkins Avenue, Brooklyn, Kings County, New York, 11216, United States",11216
+304,3067.0,40.7016657,-73.9437303,"Citi Bike - Broadway & Whipple St, Broadway, Brooklyn, Kings County, New York, 11207, United States",11207
+305,3068.0,40.7031724,-73.940636,"Citi Bike - Humboldt St & Varet St, Humboldt Street, Brooklyn, Kings County, New York, 11211, United States",11211
+306,3069.0,40.70411791,-73.94818595,"Citi Bike - Lorimer St & Broadway, Throop Avenue, Brooklyn, Kings County, New York, 11221, United States",11221
+307,3070.0,40.70510918,-73.94407279,"Citi Bike - McKibbin St & Manhattan Ave, McKibbin Street, Brooklyn, Kings County, New York, 11206, United States",11206
+308,3071.0,40.70538077,-73.94976519,"Citi Bike - Boerum St & Broadway, Boerum Street, Brooklyn, Kings County, New York, 11206, United States",11206
+309,3072.0,40.70583339,-73.94644578,"Citi Bike - Leonard St & Boerum St, Leonard Street, Brooklyn, Kings County, New York, 11222, United States",11222
+310,3074.0,40.70767788,-73.94016171,"Citi Bike - Montrose Ave & Bushwick Ave, Montrose Avenue, Brooklyn, Kings County, New York, 11206, United States",11206
+311,3075.0,40.70708701,-73.95796783,"Citi Bike - Division Ave & Marcy Ave, Brooklyn-Queens Expressway, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",11249
+312,3076.0,40.70870368,-73.9448625,"Citi Bike - Scholes St & Manhattan Ave, Scholes Street, Williamsburg, Brooklyn, Kings County, New York, 11206, United States",11206
+313,3077.0,40.70877084,-73.95095259,"Citi Bike, Hewes Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+314,3078.0,40.70924826276157,-73.96063148975372,"Broadway & Roebling Street, Broadway, Williamsburg, Brooklyn, Kings County, New York, 11207, United States",11207
+315,3080.0,40.70934000000001,-73.95608,"South 4th Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+316,3081.0,40.711863,-73.944024,"Citi Bike, Graham Avenue, Brooklyn, Kings County, New York, 11206, United States",11206
+317,3082.0,40.71167351,-73.95141312,"169, Hope Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+318,3083.0,40.71247661,-73.94100005,"Citi Bike, Bushwick Avenue, Brooklyn, Kings County, New York, 11207, United States",11207
+319,3085.0,40.71469,-73.95739,"Citibike:, Roebling Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+320,3086.0,40.715143,-73.944507,"355, Graham Avenue, Brooklyn, Kings County, New York, 11211, United States",11211
+321,3087.0,40.71413311,-73.95234386,"Citi Bike, Metropolitan Avenue, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+322,3088.0,40.7160751,-73.95202900000002,"Citi Bike - Union Ave & Jackson St, Union Avenue, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+323,3091.0,40.71764,-73.94882,"Citi Bike - Frost St & Meeker St, Meeker Avenue, Williamsburg, Brooklyn, Kings County, New York, 11222, United States",11222
+324,3092.0,40.7190095,-73.95852515,"Citi Bike - Berry St & N 8 St, Berry Street, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",11249
+325,3093.0,40.71745169,-73.95850939,"147, North 6th Street, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",11249
+326,3094.0,40.7169811,-73.94485918,"Citi Bike - Graham Ave & Withers St, Graham Avenue, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+327,3095.0,40.71929301,-73.94500379,"Citi Bike - Graham Ave & Herbert St, Meeker Avenue, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+328,3096.0,40.71924,-73.95241999999998,"627, Union Avenue, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+329,3100.0,40.724812564400175,-73.94752621650694,"146, Nassau Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+330,3101.0,40.72079821,-73.95484712,"Citi Bike - N 12 St & Bedford Ave, North 12th Street, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+331,3102.0,40.72179134,-73.95041540000003,"Citi Bike - Driggs Ave & Lorimer St, Driggs Avenue, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+332,3105.0,40.724055,-73.955736,"Citi Bike, North 15th Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+333,3106.0,40.72325,-73.94308000000002,"Citi Bike - Driggs Ave & N Henry St, Driggs Avenue, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+334,3107.0,40.72311651,-73.95212324,"Citi Bike - Bedford Ave & Nassau Ave, Bedford Avenue, Greenpoint, Brooklyn, Kings County, New York, 11249, United States",11249
+335,3108.0,40.72557000000001,-73.94434,"Citi Bike - Nassau Ave & Russell St, Nassau Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+336,3109.0,40.72606,-73.95621,"Citi Bike, Banker Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+337,3110.0,40.72708584,-73.95299117,"Citi Bike - Meserole Ave & Manhattan Ave, Meserole Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+338,3112.0,40.72906,-73.95779,"Citi Bike - Milton St & Franklin St, Milton Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+339,3113.0,40.73026,-73.95394,"Citi Bike - Greenpoint Ave & Manhattan Ave, Greenpoint Avenue, Brooklyn, Kings County, New York, 11222, United States",11222
+340,3115.0,40.73232194,-73.9550858,"Citi Bike - India St & Manhattan Ave, India Street, Brooklyn, Kings County, New York, 11222, United States",11222
+341,3116.0,40.73266,-73.95826,"83, Huron Street, Brooklyn, Kings County, New York, 11222, United States",11222
+342,3117.0,40.73564,-73.95866,"Citi Bike - Franklin St & Dupont St, Dupont Street, Greenpoint Landing, Brooklyn, Kings County, New York, 11222, United States",11222
+343,3118.0,40.73555,-73.95284000000002,"Citi Bike - McGuinness Blvd & Eagle St, McGuinness Boulevard, Brooklyn, Kings County, New York, 11109, United States",11109
+344,3119.0,40.74232744,-73.95411749,"CitiBike, Vernon Boulevard, Long Island City, Queens, Queens County, New York, 11109, United States",11109
+345,3121.0,40.74524768,-73.94733276,"Citi Bike - Jackson Ave & 46 Rd, Jackson Avenue, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+346,3122.0,40.74436328706688,-73.95587325096129,"48th Avenue, Long Island City, Queens, Queens County, New York, 11109, United States",11109
+347,3123.0,40.74469738,-73.93540375,"Citi Bike - 31 St & Thomson Ave, 31st Street, Sunnyside, Queens, Queens County, New York, 11101, United States",11101
+348,3124.0,40.74731,-73.95451,"5-25, 46th Avenue, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+349,3125.0,40.74708586,-73.94977234,"Citi Bike - 45 Rd & 11 St, 45th Road, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+350,3126.0,40.74718234,-73.9432635,"44th Drive, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+351,3127.0,40.74966,-73.9521,"Citibike, Vernon Boulevard, Long Island City, Queens, Queens County, New York, 11109, United States",11109
+352,3128.0,40.75052534,-73.94594845,"CitiBike, 21st Street, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+353,3129.0,40.75110165,-73.94073717,"Citi Bike, Queens Plaza Greenway, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+354,3130.0,40.75325964,-73.94335788,"Citi Bike, 21st Street, Queens, Queens County, New York, 11101, United States",11101
+355,3131.0,40.76712840349542,-73.96224617958069,"Citibike - East 68th Street & 3rd Avenue, East 68th Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+356,3132.0,40.76350532,-73.97109243,"35, East 59th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10022, United States",10022
+357,3134.0,40.76312584,-73.96526895,"200, East 62nd Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10065, United States",10065
+358,3135.0,40.77112927,-73.95772297,"236, East 75th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+359,3136.0,40.766368,-73.971518,"812, 5th Avenue, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10065, United States",10065
+360,3137.0,40.77282817,-73.96685276,"Central Park Outer Loop, Manhattan, New York County, New York, 10075-0381, United States",10075-0381
+361,3139.0,40.77118287540658,-73.96409422159195,"56, East 72nd Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+362,3140.0,40.77140426,-73.9535166,"1487, 1st Avenue, Yorkville, Robert F. Wagner Houses, Manhattan, New York County, New York, 10075, United States",10075
+363,3141.0,40.76500525,-73.95818491,"Citi Bike 1 Avenue & E 68 Street, 1st Avenue, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10029-6408, United States",10029-6408
+364,3142.0,40.7612274,-73.96094022,"1115, 1st Avenue, Yorkville, Robert F. Wagner Houses, Manhattan, New York County, New York, 10065, United States",10065
+365,3143.0,40.77632142182271,-73.96427392959596,"969, 5th Avenue, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10075, United States",10075
+366,3144.0,40.77677702,-73.95900970000002,"101, East 81st Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+367,3145.0,40.77862688,-73.95772073,"100, East 84th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+368,3146.0,40.77573034,-73.9567526,"176, East 81st Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+369,3147.0,40.77801203,-73.95407149,"201, East 85th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+370,3148.0,40.77565541,-73.95068615,"354, East 84th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+371,3150.0,40.77536905,-73.94803392,"446, East 85th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+372,3151.0,40.7728384,-73.94989233,"450, East 81st Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10075, United States",10075
+373,3152.0,40.76873687,-73.96119945,"1213, 3rd Avenue, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+374,3153.0,40.76817546742245,-73.95910263061523,"244, East 71st Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+375,3154.0,40.77314236,-73.95856158,"177, East 77th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10075, United States",10075
+376,3155.0,40.76440023,-73.96648977,"Barbizon 63, East 63rd Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+377,3156.0,40.76663814,-73.95348296,"Sotheby's, 1334, York Avenue, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+378,3157.0,40.77518615,-73.94446054,"146, East End Avenue, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+379,3158.0,40.77163851,-73.98261428,"Dante Alighieri, West 63rd Street, Lincoln Square, Manhattan Community Board 7, Manhattan, New York County, New York, 10023-5112, United States",10023-5112
+380,3159.0,40.77492513,-73.98266566,"W 67th St & Broadway, West 67th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+381,3160.0,40.77896784,-73.97374737,"Naturalists Gate, Central Park Outer Loop, Manhattan, New York County, New York, 10023-5104, United States",10023-5104
+382,3161.0,40.7801839724239,-73.97728532552719,"335, Columbus Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+383,3162.0,40.78339981,-73.98093133,"Apthorp Apartments, 390, West End Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+384,3163.0,40.7734066,-73.97782542,"Citi Bike - CPW & W 68th St, Central Park Outer Loop, Manhattan, New York County, New York, 10023-5104, United States",10023-5104
+385,3164.0,40.7770575,-73.97898475,"Clarins, 247, Columbus Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+386,3165.0,40.77579376683666,-73.97620573639871,"The Majestic, 115, Central Park West, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+387,3166.0,40.78057799010335,-73.98562431335448,"2, Riverside Drive, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+388,3167.0,40.779668090073116,-73.98093044757842,"280, Amsterdam Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+389,3168.0,40.78472675,-73.96961715,"7354.02, Central Park Outer Loop, Manhattan, New York County, New York, 10024, United States",10024
+390,3169.0,40.78720869,-73.98128127,"100, Riverside Drive, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+391,3170.0,40.78499979,-73.97283406,"66, West 84th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+392,3171.0,40.78524672,-73.97667321,"465, Amsterdam Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+393,3172.0,40.7785669,-73.97754961,"54, West 74th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+394,3173.0,40.777507027547976,-73.98888587951659,"Riverside Blvd & W 67th St, Riverside Boulevard, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10069, United States",10069
+395,3175.0,40.77748046,-73.98288594,"201, West 70th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+396,3177.0,40.7867947,-73.977112,"210, West 84th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+397,3178.0,40.78414472,-73.98362492,"50, Riverside Drive, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+398,3179.0,40.698617,-73.941342,"Citi Bike, Park Avenue, Marcy Houses, Brooklyn, Kings County, New York, 11206, United States",11206
+399,3221.0,40.743,-73.93561,"Stolle, 31-00, 47th Avenue, Sunnyside, Queens, Queens County, New York, 11101, United States",11101
+400,3223.0,40.758996559605116,-73.96865397691727,"161, East 55th Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+401,3226.0,40.78275,-73.97137,"The Beresford, West 82nd Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+402,3231.0,40.76780080148132,-73.96592080593109,"Citi Bike - E 67 St & Park Ave, East 67th Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+403,3232.0,40.68962188790333,-73.98304268717766,"Citi Bike - Bond Street & Fulton Mall, Bond Street, Downtown Brooklyn, Brooklyn, Kings County, New York, 11231, United States",11231
+404,3233.0,40.75724567911726,-73.97805914282799,"Citi Bike - 5 Ave & E 48 St, East 48th Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10017, United States",10017
+405,3235.0,40.752165280621966,-73.97992193698882,"Citi Bike - E 41 St & Madison Ave, East 41st Street, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10017, United States",10017
+406,3236.0,40.75898481399634,-73.99379968643187,"420 West 42nd Street, 422, West 42nd Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10036, United States",10036
+407,3241.0,40.686203000000006,-73.944694,"337, Monroe Street, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11216, United States",11216
+408,3242.0,40.69102925677968,-73.99183362722397,"Citi Bike - Schermerhorn & Court St, Schermerhorn Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11217, United States",11217
+409,3243.0,40.75892386377695,-73.96226227283478,"401, East 58th Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+410,3244.0,40.73143724085228,-73.99490341544151,"New York University, Waverly Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+411,3245.0,40.71644423134479,-73.9823305606842,"234, Delancey Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+412,3249.0,40.680356084043396,-73.94767910242079,"29, Verona Place, Bedford-Stuyvesant, Brooklyn, Kings County, New York, 11216, United States",11216
+413,3250.0,40.716909780459645,-73.98383796215056,"204, Delancey Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+414,3255.0,40.7505853470215,-73.9946848154068,"Pennsylvania Station, West 36th Street, Garment District, Manhattan Community Board 5, Manhattan, New York County, New York, 10018, United States",10018
+415,3256.0,40.7277140777778,-74.01129573583603,"Court 3, Hudson River Park Esplanade, Hudson Square, Manhattan Community Board 2, Manhattan, New York County, New York, 10282, United States",10282
+416,3258.0,40.75018156325681,-74.00218427181244,"Citi Bike - W 27 St & 10 Ave, West 27th Drive, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, United States",10001
+417,3259.0,40.74937024193277,-73.99923384189607,"313, 9th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, United States",10001
+418,3260.0,40.72706363348306,-73.99662137031554,"New York University, Waverly Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+419,3263.0,40.729514962249496,-73.99075269699097,"East Village, Manhattan Community Board 3, Manhattan, New York County, New York, United States",
+420,3282.0,40.78307,-73.95939,"Central Park Outer Loop, Manhattan, New York County, New York, 10128, United States",10128
+421,3283.0,40.7882213,-73.97041561,"71, West 89th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+422,3284.0,40.781410700190015,-73.95595908164978,"101, East 88th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+423,3285.0,40.78839,-73.9747,"201, West 87th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+424,3286.0,40.7806284,-73.9521667,"201, East 89th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+425,3288.0,40.778301,-73.9488134,"355, East 88th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+426,3289.0,40.79017948095081,-73.97288918495178,"175, West 90th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+427,3290.0,40.7779453,-73.94604100000002,"429, East 89th Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+428,3292.0,40.78578510000001,-73.957481,"5th Avenue & East 94th Street, Central Park Outer Loop, Manhattan, New York County, New York, 10129, United States",10129
+429,3293.0,40.7921,-73.9739,"1002500020, Broadway, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+430,3294.0,40.7835016,-73.955327,"74, East 91st Street, Carnegie Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+431,3295.0,40.79127,-73.964839,"Citi Bike Central Park W & W 96 Street, Central Park Outer Loop, Manhattan, New York County, New York, 10025, United States",10025
+432,3296.0,40.78245417527987,-73.94891962409021,"220, East 93rd Street, Carnegie Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+433,3297.0,40.66866270000001,-73.97988067,"Barnes & Noble, 267, 7th Avenue, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+434,3298.0,40.686371,-73.99383324,"223, Court Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11201, United States",11201
+435,3299.0,40.78813,-73.95206,"The Mount Sinai Hospital, 1, Madison Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10129, United States",10129
+436,3300.0,40.66514681533792,-73.97637605667114,"133, Prospect Park West, Brooklyn, Kings County, New York, 11215, United States",11215
+437,3301.0,40.7919557,-73.968087,"715, Columbus Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+438,3302.0,40.7969347,-73.9643412291,"850, Columbus Avenue, Manhattan Valley, Frederick Douglass Houses, Manhattan, New York County, New York, 10025, United States",10025
+439,3303.0,40.6849894,-73.99440329,"12, Butler Street, Cobble Hill, Brooklyn, Kings County, New York, 11231, United States",11231
+440,3304.0,40.668127,-73.98377641,"Brooklyn Public Library, 431, 6th Avenue, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+441,3305.0,40.781122299341654,-73.94965589046478,"Citi Bike E 91 Street & 2 Avenue, East 91st Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+442,3306.0,40.6662078,-73.98199886,"546, 10th Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+443,3307.0,40.7941654,-73.974124,"711, West End Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+444,3308.0,40.6861758,-73.99645295,"Christ Church at Cobble Hill, 180, Kane Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11231, United States",11231
+445,3309.0,40.7859201,-73.94860294,"Citi Bike E 97 Street & 3 Avenue, East 97th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10129, United States",10129
+446,3310.0,40.663779,-73.98396846,"386, 14th Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+447,3311.0,40.68763155,-74.0016256,"Citi Bike — Columbia St & Kane St, Columbia Street, Columbia Street Waterfront District, Brooklyn, Kings County, New York, 11231, United States",11231
+448,3312.0,40.78172120000001,-73.94594000000002,"1797, 1st Avenue, Yorkville, Robert F. Wagner Houses, Manhattan, New York County, New York, 10128, United States",10128
+449,3313.0,40.66631810000001,-73.9854617,"486, 6th Avenue, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+450,3314.0,40.7937704,-73.971888,"230, West 95th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+451,3315.0,40.6847514,-73.99917254,"Key Food, 486, Henry Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11231, United States",11231
+452,3317.0,40.6686273,-73.98700053,"341, 10th Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+453,3318.0,40.7839636,-73.94716729999998,"1848, 2nd Avenue, Lenox Hill, Franklin Plaza, Manhattan, New York County, New York, 10128, United States",10128
+454,3319.0,40.666287,-73.98895053,"Foot Locker, 532, 5th Avenue, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+455,3320.0,40.794066608185524,-73.96286845207214,"400, Central Park West, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+456,3321.0,40.6831164,-73.99785267,"Brooklyn Public Library, 396, Clinton Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11231, United States",11231
+457,3322.0,40.668603,-73.99043940000001,"213, 12th Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+458,3323.0,40.7981856,-73.96059090060001,"New York Cancer Hospital, 455, Central Park West, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+459,3324.0,40.6685455,-73.99333264,"543, 3rd Avenue, Brooklyn, Kings County, New York, 11215, United States",11215
+460,3326.0,40.67434,-74.00194698,"US Post Office, 615, Clinton Street, Red Hook Houses, Brooklyn, Kings County, New York, 11231, United States",11231
+461,3327.0,40.7877214,-73.94728331,"1804, 3rd Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+462,3328.0,40.795,-73.9645,"55, West 100th Street, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+463,3329.0,40.6829151,-73.99318208,"356, Degraw Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11231, United States",11231
+464,3330.0,40.6725058,-74.00494695,"Citibike - Henry Street & Bay Street, Henry Street, Red Hook, Brooklyn, Kings County, New York, 11231, United States",11231
+465,3331.0,40.8013434,-73.97114574390001,"Tot Lot 105, Riverside Drive, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+466,3332.0,40.68199044270703,-73.99079024791719,"405, Degraw Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11217, United States",11217
+467,3333.0,40.6747055,-74.00755720000002,"521, Columbia Street, Red Hook Houses, Brooklyn, Kings County, New York, 11231, United States",11231
+468,3335.0,40.6772744,-73.98282002,"630, Union Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+469,3336.0,40.787801,-73.953559,"Dunkin' Donuts, East 97th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10129, United States",10129
+470,3337.0,40.67363551341504,-74.01195555925368,"Dwight Street & Van Dyke Street, Dwight Street, Red Hook, Brooklyn, Kings County, New York, 11231, United States",11231
+471,3338.0,40.7862586,-73.94552579,"Citi Bike 2 Avenue & E 99 Street, 2nd Avenue, Lenox Hill, Franklin Plaza, Manhattan, New York County, New York, 10028, United States",10028
+472,3339.0,40.6765304,-73.97846879,"52, Berkeley Place, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+473,3340.0,40.6753274,-74.0100698,"7, Wolcott Street, Red Hook Houses, Brooklyn, Kings County, New York, 11231, United States",11231
+474,3341.0,40.795346,-73.96186,"Citi Bike - CPW & W 102nd St, Central Park Outer Loop, Manhattan, New York County, New York, 10025-4403, United States",10025-4403
+475,3342.0,40.6777748,-74.0094613,"118, Richards Street, Red Hook Houses, Brooklyn, Kings County, New York, 11231, United States",11231
+476,3343.0,40.7997568,-73.9621128676,"Mobilization for Change Community Garden, West 107th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10025-4403, United States",10025-4403
+477,3344.0,40.679043,-74.011169,"143, Pioneer Street, Red Hook, Brooklyn, Kings County, New York, 11231, United States",11231
+478,3345.0,40.78948541553215,-73.9524292945862,"Madison Avenue & East 99th Street, Madison Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10037, United States",10037
+479,3346.0,40.675146838709786,-73.9752320945263,"160, Berkeley Place, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+480,3347.0,40.6773429,-74.01275056,"Public School 15 Patrick F. Daly, Richards Street, Red Hook Houses, Brooklyn, Kings County, New York, 11231, United States",11231
+481,3348.0,40.677236,-74.015665,"147, Coffey Street, Red Hook, Brooklyn, Kings County, New York, 11231, United States",11231
+482,3349.0,40.6729679,-73.97087984,"47 Plaza Street West, 47, Plaza Street West, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+483,3350.0,40.7973721,-73.97041192,"250, West 100th Street, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+484,3351.0,40.7869946,-73.94164802,"400, East 102nd Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+485,3352.0,40.67267243410948,-74.00879524648191,"Added Value Community Garden, Otsego Street, Red Hook, Brooklyn, Kings County, New York, 112321, United States",112321
+486,3354.0,40.668132,-73.97363831,"3rd Street, Brooklyn, Kings County, New York, 11215, United States",11215
+487,3355.0,40.768008893059466,-73.96845281124116,"6969.08, East 66th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+488,3356.0,40.7746671,-73.98470567,"122, Amsterdam Avenue, Lincoln Square, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",10023
+489,3357.0,40.80083629999999,-73.9664492472,"211, West 106th Street, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+490,3358.0,40.6711978,-73.97484126,"261, Garfield Place, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+491,3359.0,40.7691572,-73.96703464,"33, East 68th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10065, United States",10065
+492,3360.0,40.7829391,-73.9786517,"Duane Reade, 380, Amsterdam Avenue, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+493,3361.0,40.6740886,-73.9787282,"710, Carroll Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+494,3362.0,40.7781314,-73.96069399,"Public School 6, 45, East 81st Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+495,3363.0,40.7904828,-73.95033068,"60, East 102nd Street, East Harlem, George Washington Carver Houses, Manhattan, New York County, New York, 10029, United States",10029
+496,3364.0,40.6751622,-73.9814832,"607, Carroll Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+497,3365.0,40.67038370000001,-73.97839676,"506, 3rd Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+498,3366.0,40.8021174,-73.9681805305,"949, West End Avenue, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+499,3367.0,40.7922553,-73.95249933,"1219, 5th Avenue, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+500,3368.0,40.67281550000001,-73.98352355,"J.J. Byrne Playground, 3rd Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+501,3369.0,40.7724607,-73.9468208,"531, East 82nd Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+502,3370.0,40.7727966,-73.95577801,"265, East 78th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10075, United States",10075
+503,3371.0,40.674613422475815,-73.98501142859459,"Square Design, 283, 4th Avenue, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+504,3372.0,40.7689738,-73.95482273,"400, East 74th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+505,3373.0,40.6750705,-73.98775226,"American Can Factory, 3rd Street, Gotham Greens, Brooklyn, Kings County, New York, 11215, United States",11215
+506,3374.0,40.799484,-73.955613,"Central Park Outer Loop, Manhattan, New York County, New York, 10026, United States",10026
+507,3375.0,40.7699426,-73.96060712,"Citibike - 3rd Avenue & East 72nd Street, 3rd Avenue, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10035, United States",10035
+508,3376.0,40.76471851944339,-73.96222069859505,"220, East 65th Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10065, United States",10065
+509,3377.0,40.6786115,-73.99037292,"FDNY EMS Station 32, 347, Bond Street, Gowanus, Brooklyn, Kings County, New York, 11231, United States",11231
+510,3378.0,40.773763,-73.96222088,"69, East 76th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10021, United States",10021
+511,3379.0,40.79030510000001,-73.94755757,"103rd Street, East 103rd Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+512,3381.0,40.6777287,-73.99364123,"Magic Touch Cocktail Lounge, 69, 3rd Street, Carroll Gardens, Brooklyn, Kings County, New York, 11231, United States",11231
+513,3382.0,40.680611,-73.99475825,"254, Carroll Street, Carroll Gardens, Brooklyn, Kings County, New York, 11231, United States",11231
+514,3383.0,40.804213,-73.96699104,"600, Cathedral Parkway, Manhattan Valley, Manhattan Community Board 9, Manhattan, New York County, New York, 10025, United States",10025
+515,3384.0,40.67872420000001,-73.99599099,"380, Smith Street, Boerum Hill, Brooklyn, Kings County, New York, 11231, United States",11231
+516,3386.0,40.6809591,-73.99905709,"48, 1st Place, Carroll Gardens, Brooklyn, Kings County, New York, 11231, United States",11231
+517,3387.0,40.79343370000001,-73.94945003,"Madison Av & E 106 St, Madison Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10037, United States",10037
+518,3388.0,40.6828003,-73.99990419,"181, President Street, Carroll Gardens, Brooklyn, Kings County, New York, 11231, United States",11231
+519,3389.0,40.6830456,-74.00348559,"69, Carroll Street, Columbia Street Waterfront District, Brooklyn, Kings County, New York, 11231, United States",11231
+520,3390.0,40.79329668,-73.9432083,"Citibike - East 109th Street & 3rd Avenue, East 109th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+521,3391.0,40.7892529,-73.93956237,"410, East 106th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+522,3392.0,40.68121170000001,-74.00860912,"Extech Building Materials, 87, Bowne Street, Columbia Street Waterfront District, Brooklyn, Kings County, New York, 11231, United States",11231
+523,3393.0,40.67943270000001,-74.00785041,"80, Richards Street, Red Hook, Brooklyn, Kings County, New York, 11231, United States",11231
+524,3394.0,40.6769993,-74.00647134,"443, Columbia Street, Red Hook Houses, Brooklyn, Kings County, New York, 11231, United States",11231
+525,3395.0,40.6763744,-74.00324957,"84, West 9th Street, Red Hook, Brooklyn, Kings County, New York, 11231, United States",11231
+526,3396.0,40.6783563,-74.00014502,"520, Clinton Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11231, United States",11231
+527,3397.0,40.6763947,-73.99869893,"483, Court Street, Carroll Gardens, Brooklyn, Kings County, New York, 11231, United States",11231
+528,3398.0,40.67469570000001,-73.99785768,"478, Smith Street, Carroll Gardens, Brooklyn, Kings County, New York, 11231, United States",11231
+529,3399.0,40.67260298150126,-73.98983001708984,"209, 7th Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+530,3400.0,40.7961535,-73.94782145,"CitiBike - West 110th Street & Madison Avenue, East 110th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+531,3401.0,40.6724811,-73.99331394,"130, 9th Street, Carroll Gardens, Brooklyn, Kings County, New York, 11215, United States",11215
+532,3402.0,40.6902375,-73.99203074,"LensCrafters, 121, Court Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11201, United States",11201
+533,3403.0,40.6705135,-73.98876585,"4th Ave - 9th Street (R) to Bay Ridge, 4th Avenue, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+534,3404.0,40.67049220000001,-73.98541675,"327, 7th Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+535,3405.0,40.6704836,-73.98208968,"395, 5th Street, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+536,3407.0,40.67909799721684,-73.98765474557877,"543, Union Street, Gowanus, Brooklyn, Kings County, New York, 11215, United States",11215
+537,3408.0,40.6881529,-73.99520919,"200, Congress Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11201, United States",11201
+538,3409.0,40.6867443,-73.99063168,"65, Bergen Street, Cobble Hill Historic District, Brooklyn, Kings County, New York, 11201, United States",11201
+539,3410.0,40.6864442,-73.98759104,"Hopkins Center for Rehabilitation & Healthcare, 155, Dean Street, Boerum Hill Historic District, Brooklyn, Kings County, New York, 11217, United States",11217
+540,3411.0,40.6849668,-73.98620772,"152, Bond Street, Boerum Hill Historic District, Brooklyn, Kings County, New York, 11217, United States",11217
+541,3412.0,40.6853761,-73.98302136,"450, Pacific Street, Boerum Hill, Brooklyn, Kings County, New York, 11217, United States",11217
+542,3413.0,40.6827549,-73.98258555,"291, Wyckoff Street, Boerum Hill, Brooklyn, Kings County, New York, 11217, United States",11217
+543,3414.0,40.680944723477296,-73.97567331790923,"Citi Bike - Bergen St & Flatbush Ave, Bergen Street, Park Slope, Brooklyn, Kings County, New York, 11213, United States",11213
+544,3415.0,40.6793307,-73.97519523,"74, Prospect Place, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+545,3417.0,40.6795766,-73.97854971,"Key Food, 120, 5th Avenue, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+546,3418.0,40.67502070000001,-73.97111473,"5, Plaza Street West, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+547,3419.0,40.67927879999999,-73.98154004,"Ghenet, 348, Douglass Street, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+548,3420.0,40.6802133,-73.98432695,"280, Douglass Street, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+549,3422.0,40.6859296,-74.00242364,"Columbia Street, Columbia Street Waterfront District, Brooklyn, Kings County, New York, 11231, United States",11231
+550,3423.0,40.6610633719006,-73.97945255041121,"196, Prospect Park West, Park Slope, Brooklyn, Kings County, New York, 11215, United States",11215
+551,3424.0,40.791976,-73.945993,"154, East 106th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+552,3425.0,40.7892105,-73.94370784,"Blake Hobbs Playground, East 104th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+553,3427.0,40.72430527250332,-73.99600982666016,"Lafayette Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10012-3332, United States",10012-3332
+554,3429.0,40.68506807308177,-73.97790759801863,"Williamsburgh Savings Bank Tower, 1, Hanson Place, Fort Greene, Brooklyn, Kings County, New York, 11217, United States",11217
+555,3430.0,40.71907891179564,-73.94223690032959,"215, Richardson Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+556,3431.0,40.746524,-73.977885,"165, East 35th Street, Murray Hill, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+557,3432.0,40.66906013501107,-73.99463653564453,"93, 14th Street, Brooklyn, Kings County, New York, 11215, United States",11215
+558,3434.0,40.79025417330417,-73.97718340158461,"300, West 88th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+559,3435.0,40.718822,-73.99596,"217, Grand Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10013, United States",10013
+560,3437.0,40.79313480986664,-73.97700369358063,"Riverside Drive, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+561,3440.0,40.692418292578466,-73.98949474096298,"Borough Hall (4,5), Joralemon Street, Downtown Brooklyn, Brooklyn, Kings County, New York, 11207, United States",11207
+562,3441.0,40.752957,-74.00264,"10 Hudson Yards, High Line, Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, New York, 10017, United States",10017
+563,3443.0,40.76132983124814,-73.97982001304626,"Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, United States",
+564,3449.0,40.72146256229816,-73.94800901412964,"45, Eckford Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+565,3452.0,40.71915571696044,-73.94885390996933,"78, Bayard Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+566,3453.0,40.71335226222875,-73.9491033554077,"53, Devoe Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+567,3454.0,40.71036854235229,-73.94705951213838,"193, Leonard Street, Greenpoint, Brooklyn, Kings County, New York, 11206, United States",11206
+568,3456.0,40.716380319735606,-73.94821286201476,"351, Leonard Street, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+569,3457.0,40.763025942805186,-73.97209525108337,"Citi Bike - E 58 St & Madison Ave, East 58th Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10022, United States",10022
+570,3458.0,40.76309387270797,-73.97835016250609,"Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, United States",
+571,3459.0,40.75763227739443,-73.9693057537079,"East 53rd Street & 3rd Avenue at Northeast Corner, East 53rd Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+572,3461.0,40.71485150526252,-74.01122331619263,"85, Murray Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10007, United States",10007
+573,3462.0,40.75118387463277,-73.97138714790343,"248, East 44th Street, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10017, United States",10017
+574,3463.0,40.735367055605394,-73.98797392845155,"109, East 16th Street, Union Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10003, United States",10003
+575,3467.0,40.72494672359416,-74.00165855884552,"420, West Broadway, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+576,3469.0,40.73181401720966,-73.95995020866394,"The Greenpoint, India Street, Brooklyn, Kings County, New York, 11222, United States",11222
+577,3472.0,40.742753828659026,-74.00747358798982,"Free Public Stargazing, High Line, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 100014, United States",100014
+578,3474.0,40.7252556952547,-74.00412082672119,"10 Sullivan, 120, 6th Avenue, Hudson Square, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+579,3477.0,40.65539977447831,-74.01062786579129,"168, 39th Street, Sunset Park, Brooklyn, Kings County, New York, 11232, United States",11232
+580,3478.0,40.65708866668485,-74.00870203971863,"619, 2nd Avenue, Greenwood Heights, Brooklyn, Kings County, New York, 11232, United States",11232
+581,3486.0,40.68841742754083,-73.98451656103134,"NYC Human Resources Administration, 243, Schermerhorn Street, Boerum Hill, Brooklyn, Kings County, New York, 11201, United States",11201
+582,3489.0,40.710699946313866,-74.00354146957396,"NYC Housing Preservation and Development (HPD), 100, Gold Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+583,3490.0,40.796879,-73.93726099999998,"Edward Corsi Houses, 306, East 117th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+584,3491.0,40.79747,-73.93504,"P.S. 155 Playground, East 117th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+585,3492.0,40.8005385,-73.9419949,"111, East 118th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+586,3493.0,40.799139,-73.9389152,"200, East 118th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+587,3494.0,40.797911,-73.9423,"CitiBike Lexington Avenue/E 115th Street, East 115th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+588,3495.0,40.79456629999999,-73.9362541,"401, East 114th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+589,3496.0,40.7923272,-73.9383,"Blue Sky, 2135, 1st Avenue, Yorkville, Robert F. Wagner Houses, Manhattan, New York County, New York, 10029, United States",10029
+590,3497.0,40.7949879,-73.9333349,"299, Pleasant Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+591,3498.0,40.7974772,-73.9311847,"505, East 120th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+592,3499.0,40.8006721,-73.9349,"2370, 2nd Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+593,3500.0,40.7989445,-73.944846,"Citi Bike, East 115th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+594,3501.0,40.8014866,-73.9442507,"21, East 118th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+595,3502.0,40.79541210000001,-73.9441232,"132, East 111th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+596,3503.0,40.80295,-73.942954,"Citibike - Madison Avenue & East 120th Street, Madison Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10037, United States",10037
+597,3504.0,40.8029263,-73.9379,"170, East 123rd Street, East Harlem, Taino Towers, Manhattan, New York County, New York, 10035, United States",10035
+598,3505.0,40.805726,-73.936322,"2120, Lexington Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+599,3506.0,40.8013066,-73.93981670000002,"Citi Bike, Lexington Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10037, United States",10037
+600,3507.0,40.8045555,-73.93968609999997,"Harlem–125th Street, Park Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10037, United States",10037
+601,3508.0,40.809725,-73.953149,"270, Saint Nicholas Avenue, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10027, United States",10027
+602,3509.0,40.8011939,-73.9500739,"Citibike - Malcolm X Boulevard & West 115th Street, Malcolm X Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10037, United States",10037
+603,3510.0,40.8078316,-73.949373,"2070, Adam Clayton Powell Jr. Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10027, United States",10027
+604,3511.0,40.802535,-73.9532423,"1890, Adam Clayton Powell Jr. Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10026, United States",10026
+605,3512.0,40.7747175,-73.93378940000002,"3-11, 27th Avenue, Astoria, Queens, Queens County, New York, 11102, United States",11102
+606,3513.0,40.774645,-73.92370600000002,"CitiBike - 21st Street & Hoyt Avenue South, 21st Street, Astoria, Queens, Queens County, New York, 11106, United States",11106
+607,3514.0,40.7767,-73.927631,"Astoria Park South, Astoria, Queens, Queens County, New York, 11105, United States",11105
+608,3515.0,40.774591,-73.918544,"25-17, 24th Avenue, Queens, Queens County, New York, 11105, United States",11105
+609,3516.0,40.76991760000001,-73.91840570000002,"Astoria Boulevard, Grand Central Parkway, Queens, Queens County, New York, 11102, United States",11102
+610,3517.0,40.7711528,-73.9170074,"Staples, 24-41, 31st Street, Steinway, Queens, Queens County, New York, 11102, United States",11102
+611,3518.0,40.808442,-73.94520870000002,"301, Malcolm X Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10027, United States",10027
+612,3520.0,40.804372,-73.951475,"1955, Adam Clayton Powell Jr. Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10026, United States",10026
+613,3521.0,40.7987859,-73.9523,"Citi Bike Lenox Av & W 111 St, Malcolm X Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10037, United States",10037
+614,3522.0,40.7701477,-73.9120938,"Citi Bike - 37th St / 24th Av, 37th Street, Steinway, Queens, Queens County, New York, 11101, United States",11101
+615,3523.0,40.7729,-73.91614200000002,"Bohemian Hall, 29-19, 24th Avenue, Queens, Queens County, New York, 11102, United States",11102
+616,3524.0,40.77745520000001,-73.9225403,"24-01, 19th Street, Astoria, Queens, Queens County, New York, 11102, United States",11102
+617,3525.0,40.776165,-73.9153175,"CitiBike 23rd Avenue & 27th Street, 23rd Avenue, Steinway, Queens, Queens County, New York, 11105, United States",11105
+618,3526.0,40.7747878,-73.91255509999998,"22-68, 31st Street, Steinway, Queens, Queens County, New York, 11105, United States",11105
+619,3527.0,40.80698,-73.94174699999998,"2037A, 5th Avenue, East Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10035, United States",10035
+620,3528.0,40.7713937,-73.9077436,"22-73, Steinway Street, Steinway, Queens, Queens County, New York, 11105, United States",11105
+621,3529.0,40.8107922,-73.9430681,"380, Malcolm X Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10027, United States",10027
+622,3530.0,40.7787185,-73.9145645,"22-04, Crescent Street, Steinway, Queens, Queens County, New York, 11105, United States",11105
+623,3531.0,40.8125511,-73.9492286,"Harlem Children's Zone - Promise Academy, 245, West 129th Street, Harlem, Saint Nicholas Houses, Manhattan, New York County, New York, 10027, United States",10027
+624,3532.0,40.78145,-73.9183302,"18-55, Ditmars Boulevard, Queens, Queens County, New York, 11105, United States",11105
+625,3533.0,40.8114323,-73.95187759999997,"125th Street, West 125th Street, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10027, United States",10027
+626,3534.0,40.805159,-73.95469200000002,"116th Street, West 116th Street, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10026, United States",10026
+627,3535.0,40.804038,-73.945925,"2, Mt Morris Park West, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10027, United States",10027
+628,3536.0,40.8082,-73.9641,"Halal Cart, West 116th Street, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States",10027
+629,3537.0,40.68097410000001,-73.97100970000002,"535, Carlton Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+630,3538.0,40.802692,-73.96295,"1021, Amsterdam Avenue, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10025, United States",10025
+631,3539.0,40.8067581,-73.9607082,"Columbia University, West 113th Street, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10025, United States",10025
+632,3540.0,40.81,-73.9551508,"97, Morningside Avenue, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States",10027
+633,3541.0,40.813358,-73.956461,"1315, Amsterdam Avenue, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States",10027
+634,3542.0,40.8086249,-73.9596214,"Columbia Secondary School Community Garden, Amsterdam Avenue, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10115, United States",10115
+635,3543.0,40.81028506306003,-73.95736455917357,"7741.04, Morningside Drive, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States",10027
+636,3544.0,40.6804836,-73.9646795,"18, Underhill Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+637,3545.0,40.8120562,-73.9612547,"Manhattan School of Music, Broadway, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10115, United States",10115
+638,3546.0,40.67919439999999,-73.95879029999998,"1050, Atlantic Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+639,3547.0,40.8143256,-73.9590255,"Citi Bike, Broadway, Manhattanville, Manhattan Community Board 9, Manhattan, New York County, New York, 10115, United States",10115
+640,3549.0,40.678045,-73.962408,"778, Bergen Street, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+641,3551.0,40.795508,-73.94160600000002,"2039, 3rd Avenue, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",10029
+642,3552.0,40.805973,-73.964928,"Broadway Residence Hall, 2900, Broadway, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10025, United States",10025
+643,3553.0,40.801694,-73.957145,"2050, Frederick Douglass Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10026, United States",10026
+644,3554.0,40.7552433,-73.94856779999998,"41-14, Vernon Boulevard, Queens, Queens County, New York, 11101, United States",11101
+645,3555.0,40.751047,-73.93796999999998,"Brewster Building, 41-11, 27th Street, Queens, Queens County, New York, 11101, United States",11101
+646,3556.0,40.7527085,-73.9397405,"40-41, 24th Street, Queens, Queens County, New York, 11101, United States",11101
+647,3557.0,40.75742,-73.945133,"8-15, 40th Avenue, Queens, Queens County, New York, 11101, United States",11101
+648,3558.0,40.6794388,-73.96804379999998,"640, Bergen Street, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+649,3559.0,40.7576314,-73.9391224,"Citi Bike, 21st Street, Queens, Queens County, New York, 11101, United States",11101
+650,3560.0,40.754876,-73.934326,"38-09, 28th Street, Queens, Queens County, New York, 11101, United States",11101
+651,3561.0,40.7531106,-73.9279917,"37-01, 35th Street, Queens, Queens County, New York, 11101, United States",11101
+652,3562.0,40.6765198,-73.9596082,"694, Classon Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+653,3563.0,40.757186,-73.93271899999998,"Intermediate School 204, 36-41, 28th Street, Queens, Queens County, New York, 11106, United States",11106
+654,3564.0,40.7601853,-73.9362726,"Citi Bike, 21st Street, Ravenswood Houses, Queens, Queens County, New York, 11106, United States",11106
+655,3565.0,40.7614376,-73.9411265,"Public School 76, 10th Street, Astoria, Queens, Queens County, New York, 11101, United States",11101
+656,3566.0,40.7596276,-73.93214549999998,"35-02, Crescent Street, Queens, Queens County, New York, 11106, United States",11106
+657,3567.0,40.76274420000001,-73.9391141,"34-56, 11th Street, Queens, Queens County, New York, 11106, United States",11106
+658,3568.0,40.75693320000001,-73.92622309999999,"35-06, 34th Street, Queens, Queens County, New York, 11106, United States",11106
+659,3569.0,40.6758324,-73.95616770000002,"Jewel City Yoga, 658, Franklin Avenue, Brooklyn, Kings County, New York, 11238, United States",11238
+660,3570.0,40.7557327,-73.92366109999998,"37-02, 35th Avenue, Queens, Queens County, New York, 11101, United States",11101
+661,3571.0,40.676368,-73.95291800000003,"Washington Temple, 1372, Bedford Avenue, Brooklyn, Kings County, New York, 11216, United States",11216
+662,3572.0,40.756913,-73.921631,"CitiBike - 34th Av / 38th St, 34th Avenue, Sunnyside Gardens, Queens, Queens County, New York, 11101, United States",11101
+663,3573.0,40.7580583,-73.92427509999997,"C‑Town Supermarkets, 34-12, 34th Avenue, Sunnyside Gardens, Queens, Queens County, New York, 11106, United States",11106
+664,3574.0,40.6769694,-73.96579,"Underhill Playground, Underhill Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+665,3575.0,40.76108,-73.930562,"25-02, 34th Avenue, Queens, Queens County, New York, 11106, United States",11106
+666,3576.0,40.6767,-73.969024,"262, Park Place, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+667,3577.0,40.7628138,-73.9342862,"Citi Bike, 34th Avenue, Queens, Queens County, New York, 11101, United States",11101
+668,3578.0,40.67418060000001,-73.95649470000002,"644, Park Place, Crown Heights, Brooklyn, Kings County, New York, 11216, United States",11216
+669,3579.0,40.672695,-73.954131,"746, Sterling Place, Brooklyn, Kings County, New York, 11216, United States",11216
+670,3580.0,40.6737236,-73.9631611,"810, Washington Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+671,3581.0,40.6740123,-73.9671457,"230, Underhill Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+672,3582.0,40.6721683,-73.9609,"463, Lincoln Place, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+673,3583.0,40.6716493,-73.9631145,"OY/YO, Eastern Parkway South Sidewalk, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+674,3584.0,40.67077670000001,-73.9576801,"Eastern Parkway North Mall, Eastern Parkway, Brooklyn, Kings County, New York, 11213, United States",11213
+675,3585.0,40.6691783,-73.9554162,"1579, Bedford Avenue, Brooklyn, Kings County, New York, 11225, United States",11225
+676,3586.0,40.7638753,-73.9364848,"12-20, 34th Avenue, Queens, Queens County, New York, 11106, United States",11106
+677,3587.0,40.6686744,-73.9618148,"916, Carroll Street, Brooklyn, Kings County, New York, 11225, United States",11225
+678,3588.0,40.7671863,-73.9373554,"The Noguchi Museum, 9-01, 33rd Road, Astoria, Queens, Queens County, New York, 11106, United States",11106
+679,3589.0,40.7668,-73.93477740000002,"Citibike, Broadway, Astoria, Queens, Queens County, New York, 11373, United States",11373
+680,3590.0,40.6679411,-73.9588,"899, Franklin Avenue, Brooklyn, Kings County, New York, 11225, United States",11225
+681,3591.0,40.7659,-73.930819,"Subway, 31st Drive, Astoria, Queens, Queens County, New York, 11106, United States",11106
+682,3592.0,40.7633589,-73.92864709999998,"32-02, Crescent Street, Astoria, Queens, Queens County, New York, 11106, United States",11106
+683,3593.0,40.761584,-73.925921,"Rite Aid, 32-14, 31st Street, Queens, Queens County, New York, 11106, United States",11106
+684,3595.0,40.760339,-73.9222427,"32-15, 35th Street, Queens, Queens County, New York, 11106, United States",11106
+685,3596.0,40.6642406,-73.9574686,"Ebbets Field (historical), 55, Sullivan Place, Crown Heights, Brooklyn, Kings County, New York, 11225, United States",11225
+686,3597.0,40.7577284,-73.9166368,"Citi Bike, 43rd Street, Steinway, Queens, Queens County, New York, 11101, United States",11101
+687,3598.0,40.7595701,-73.91426779999998,"43-20, 31st Avenue, Queens, Queens County, New York, 11103, United States",11103
+688,3599.0,40.66314000000001,-73.96056949999998,"1042, Franklin Avenue, Brooklyn, Kings County, New York, 11225, United States",11225
+689,3601.0,40.6627059,-73.9569115,"125, Sterling Street, Crown Heights, Brooklyn, Kings County, New York, 11225, United States",11225
+690,3602.0,40.763154,-73.920827,"CitiBike, 31st Avenue, Queens, Queens County, New York, 11369, United States",11369
+691,3603.0,40.7647,-73.9240312,"30-01, 31st Avenue, Astoria, Queens, Queens County, New York, 11102, United States",11102
+692,3604.0,40.6630619,-73.95387459999998,"396, Rogers Avenue, Brooklyn Community District 17, Brooklyn, Kings County, New York, 11225, United States",11225
+693,3605.0,40.76583460000001,-73.9265474,"30-100, Crescent Street, Astoria, Queens, Queens County, New York, 11102, United States",11102
+694,3606.0,40.74252,-73.948852,"21-01, 49th Avenue, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+695,3607.0,40.7682,-73.9322662,"Public Health Solutions Navigator, 12-26, 31st Avenue, Astoria, Queens, Queens County, New York, 11106, United States",11106
+696,3608.0,40.7423737,-73.9566,"5-02, 51st Avenue, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+697,3609.0,40.7692475,-73.93545040000002,"Adirondack Building, 31st Avenue, Astoria, Queens, Queens County, New York, 11369, United States",11369
+698,3610.0,40.770845,-73.93417099999998,"30-55, Vernon Boulevard, Astoria, Queens, Queens County, New York, 11102, United States",11102
+699,3611.0,40.7449067,-73.9534573,"47-18, Vernon Boulevard, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+700,3612.0,40.77037429999999,-73.9286078,"Public School 171, 29th Avenue, Astoria, Queens, Queens County, New York, 11102, United States",11102
+701,3613.0,40.745038,-73.957539,"Avalon Riverview North, 4-75, 48th Avenue, Long Island City, Queens, Queens County, New York, 11109, United States",11109
+702,3614.0,40.768692,-73.9249574,"29-22, Crescent Street, Astoria, Queens, Queens County, New York, 11102, United States",11102
+703,3615.0,40.74800000000001,-73.94609270000002,"21-31, 44th Drive, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+704,3616.0,40.7656251,-73.9136695,"CitiBike - 28th Steinway St / 28th Av, Steinway Street, Steinway, Queens, Queens County, New York, 11103, United States",11103
+705,3617.0,40.7671,-73.9169858,"Peter Minuit, 35th Street, Queens, Queens County, New York, 11101, United States",11101
+706,3618.0,40.7485,-73.941275,"Ed Koch Queensboro Bridge Upper Level, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+707,3619.0,40.7713615,-73.9246145,"The Young Women's Leadership School of Astoria, 23-15, Newtown Avenue, Astoria, Queens, Queens County, New York, 11102, United States",11102
+708,3620.0,40.7519071,-73.94791190000002,"Z NYC Hotel, 11-01, 11th Street, Long Island City, Queens, Queens County, New York, 11101, United States",11101
+709,3621.0,40.7739825,-73.93091340000002,"9-02, 27th Avenue, Astoria, Queens, Queens County, New York, 11102, United States",11102
+710,3622.0,40.80756,-73.93918199999997,"39, East 128th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10035, United States",10035
+711,3623.0,40.8109494,-73.9634,"Citi Bike, West 120th Street, Morningside Heights, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States",10027
+712,3628.0,40.8025566,-73.9490782,"42, West 117th Street, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10026, United States",10026
+713,3629.0,40.809495347779475,-73.94776493310928,"Adam Clayton Powell Jr Boulevard & West 125th Street, Adam Clayton Powell Jr. Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10039, United States",10039
+714,3630.0,40.8038654,-73.95593079999998,"301, West 115th Street, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10026, United States",10026
+715,3631.0,40.666563,-73.95674100000002,"115, Crown Street, Crown Heights, Brooklyn, Kings County, New York, 11225, United States",11225
+716,3637.0,40.68323865460341,-73.96599590778352,"Shining Smiles, 882, Fulton Street, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",11238
+717,3641.0,40.74286877312112,-73.98918628692627,"Citi Bike - Broadway & W 24 St, General Worth Square, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, United States",10010
+718,3646.0,40.763154819103725,-73.93985509872438,"9-20, 35th Avenue, Ravenswood Houses, Queens, Queens County, New York, 11106, United States",11106
+719,3647.0,40.74128309355993,-73.93725872039794,"30-19, 48th Avenue, Sunnyside, Queens, Queens County, New York, 11101, United States",11101
+720,3648.0,40.69795031569544,-73.97077560424805,"Citi Bike, Flushing Avenue, Brooklyn, Kings County, New York, 11237, United States",11237
+721,3649.0,40.81439443791581,-73.95324736833571,"440, West 129th Street, Manhattanville, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States",10027
+722,3653.0,40.75820464696758,-73.92832159996033,"34-39, 31st Street, Queens, Queens County, New York, 11106, United States",11106
+723,3654.0,40.75186951421875,-73.93349289894103,"Q102, 31st Street, Queens, Queens County, New York, 11101, United States",11101
+724,3656.0,40.72307749068673,-73.98583620786667,"145, East 2nd Street, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+725,3658.0,40.7435337324616,-74.00367558002472,"Citi Bike - W 18 St & 9 Ave, West 18th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+726,3659.0,40.7429489166009,-74.00413691997528,"400, West 17th Street, Chelsea, Robert Fulton Houses, Manhattan, New York County, New York, 10011, United States",10011
+727,3660.0,40.74102150900266,-74.001384973526,"127, 8th Avenue, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+728,3661.0,40.666439306870814,-73.96055638790129,"130, Montgomery Street, Brooklyn, Kings County, New York, 11225, United States",11225
+729,3662.0,40.76129389728909,-73.916916847229,"CVS Pharmacy, 31st Avenue, Queens, Queens County, New York, 11369, United States",11369
+730,3663.0,40.67716489469059,-73.97382795810701,"133, Sterling Place, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+731,3664.0,40.72019521437465,-74.0103006362915,"Independence Plaza II, North Moore Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10013, United States",10013
+732,3668.0,40.7239567849954,-73.94984364509583,"Leonard St & Nassau Ave, Leonard Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+733,3671.0,40.77477944895728,-73.95427465438844,"San Matteo Pizzeria e Cucina, East 81st Street, Yorkville, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+734,3673.0,40.67759206937376,-73.95563721656801,"1040, Dean Street, Brooklyn, Kings County, New York, 11238, United States",11238
+735,3674.0,40.70140317257725,-73.98672670125961,"York Street, Jay Street, DUMBO, Brooklyn, Kings County, New York, 11201, United States",11201
+736,3675.0,40.784596798848916,-73.94968539476396,"Citi Bike 3 Avenue & E 95 Street, 3rd Avenue, Carnegie Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10035, United States",10035
+737,3676.0,40.675832943912894,-74.01472628116608,"Citibike - Van Brunt Street & Van Dyke Street, Van Brunt Street, Red Hook, Brooklyn, Kings County, New York, 112321, United States",112321
+738,3680.0,40.754120810779256,-73.98025184869765,"Sidewalk Clock at 522 5th Avenue, East 43rd Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10017, United States",10017
+739,3684.0,40.73756121181137,-74.00398269295692,"283, West 12th Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+740,3686.0,40.73944820130404,-74.00507032871245,"21, Gansevoort Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+741,3687.0,40.74322681432173,-73.97449783980845,"Citi Bike - E 33 St & 1 Ave, East 33rd Street, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+742,3689.0,40.79904139288298,-73.96649479866028,"154, West 104th Street, Manhattan Valley, Manhattan Community Board 7, Manhattan, New York County, New York, 10025, United States",10025
+743,3690.0,40.71334184275907,-74.00935515761375,"Chambers Street–World Trade Center–Park Place–Cortlandt Street, Murray Street, Tribeca, Manhattan Community Board 1, Manhattan, New York County, New York, 10282, United States",10282
+744,3691.0,40.76408932350689,-73.9106512069702,"43-17, 28th Avenue, Queens, Queens County, New York, 11103, United States",11103
+745,3692.0,40.6999974843885,-73.97440128028394,"Building 62, 5th Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11251, United States",11251
+746,3693.0,40.72248188638219,-73.95921930670737,"CitiBike - North 11th Street & Kent Avenue, North 11th Street, Greenpoint, Brooklyn, Kings County, New York, 11249, United States",11249
+747,3697.0,40.77515953434235,-73.98918695747851,"Thelonius Monk Circle, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10069, United States",10069
+748,3699.0,40.76360467795863,-73.98917958140373,"West 50th Street & 9th Avenue, West 50th Street, Hell's Kitchen, Manhattan Community Board 4, Manhattan, New York County, New York, 10019, United States",10019
+749,3701.0,40.70831794366396,-74.0050408244133,"29, Cliff Street, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10038, United States",10038
+750,3704.0,40.7437524099784,-73.94176483154297,"26-35, 47th Avenue, Sunnyside, Queens, Queens County, New York, 11101, United States",11101
+751,3709.0,40.73804614248277,-73.99642959237099,"6th Avenue / 14th Street, West 15th Street, Chelsea, Manhattan Community Board 4, Manhattan, New York County, New York, 10011, United States",10011
+752,3711.0,40.72966729392978,-73.98067966103555,"Citi Bike - E 13 St & Avenue A, East 13th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+753,3712.0,40.754691750226016,-73.9974018931389,"444, West 35th Street, Hudson Yards, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, United States",10001
+754,3714.0,40.70684203101325,-73.9544353965357,"Citi Bike, Division Avenue, Brooklyn, Kings County, New York, 11249, United States",11249
+755,3715.0,40.71816969454208,-73.95520135760306,"Buffalo Exchange, 504, Driggs Avenue, Greenpoint, Brooklyn, Kings County, New York, 11211, United States",11211
+756,3716.0,40.7535992020056,-73.93795609474179,"39-50, Crescent Street, Queens, Queens County, New York, 11101, United States",11101
+757,3718.0,40.727464206923926,-73.97950418293476,"601, East 11th Street, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+758,3719.0,40.68322254161596,-73.9738118648529,"203, South Portland Avenue, Fort Greene, Brooklyn, Kings County, New York, 11217, United States",11217
+759,3720.0,40.68461653897949,-73.98721285164356,"175, Wyckoff Street, Gowanus, Brooklyn, Kings County, New York, 11217, United States",11217
+760,3721.0,40.7675487799971,-73.92093345522879,"28-42, 31st Street, Queens, Queens County, New York, 11102, United States",11102
+761,3723.0,40.69531727766904,-73.99015724658966,"Downtown Station Brooklyn Post Office, Cadman Plaza East, Downtown Brooklyn, Brooklyn, Kings County, New York, 11201, United States",11201
+762,3724.0,40.7667405590595,-73.9790689945221,"925, 7th Avenue, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+763,3725.0,40.7687620293096,-73.95840793848038,"72nd Street & 2nd Avenue at Northwest Corner, 2nd Avenue, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10035, United States",10035
+764,3726.0,40.74336608027021,-73.95960688591003,"Center Boulevard, Queens, Queens County, New York, 11109, United States",11109
+765,3727.0,40.71784798417728,-73.94752018153667,"104, Frost Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+766,3728.0,40.69535693320225,-73.99344027042389,"102, Pierrepont Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11201, United States",11201
+1046,2017.0,40.75022392,-73.97121414,"Ford Foundation, East 43rd Street, Tudor City, Manhattan Community Board 6, Manhattan, New York County, New York, 10017, United States",10017
+1052,3040.0,40.66979964220026,-73.99497985839844,"77, 14th Street, Brooklyn, Kings County, New York, 11215, United States",11215
+1315,3416.0,40.67761470000001,-73.97324283,"San Art Framing, 7, 7th Avenue, Park Slope, Brooklyn, Kings County, New York, 11217, United States",11217
+1346,3466.0,40.75668720603179,-73.98257732391356,"72, West 45th Street, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",10036
+1537,3733.0,40.730563,-73.973984,"276, Avenue C, Stuy Town, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",10009
+1538,3737.0,40.720747,-73.986274,"Lower East Side Preparatory High School, 145, Stanton Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",10002
+1539,3745.0,40.75651272984955,-73.92957486212252,"Leo's, 31-03, 36th Avenue, Queens, Queens County, New York, 11106, United States",11106
+2288,3707.0,40.741459000000006,-73.983293,"Lexington Ave & E 26 St, Lexington Avenue, Kips Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10037, United States",10037
+2289,3708.0,40.735445,-73.99431,"72, 5th Avenue, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10011, United States",10011
+2306,3734.0,40.759125,-73.96265799999998,"357, East 58th Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+2309,3746.0,40.72430832160217,-74.00473035871983,"Citi Bike - 6 Ave & Broome St, Clark Street, Hudson Square, Manhattan Community Board 2, Manhattan, New York County, New York, 10014-3621, United States",10014-3621
+2310,3747.0,40.777553742988864,-73.95512759685515,"Dramatics NYC, East 84th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",10028
+2311,3749.0,40.747573958954796,-73.97880077362059,"271, Lexington Avenue, Murray Hill, Manhattan Community Board 6, Manhattan, New York County, New York, 10016, United States",10016
+2379,284.0,40.7390169121,-74.0026376103,"Citi Bike - Greenwich Ave & 8 Ave, Greenwich Avenue, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+2712,3182.0,40.686931,-74.016966,"Citi Bike, South Craig Road, Nolan Park, Manhattan Community Board 1, Manhattan, New York County, New York, 112321, United States",112321
+2726,3254.0,40.69231660719192,-74.01486575603484,"Visitor Center, Andes Road, Nolan Park, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",10004
+3083,3755.0,40.69064807082943,-73.95746178925037,"491, DeKalb Avenue, Fort Greene, Brooklyn, Kings County, New York, 11205, United States",11205
+3084,3756.0,40.704508,-73.9351,"229, Moore Street, Brooklyn, Kings County, New York, 11206, United States",11206
+3085,3757.0,40.710681,-73.93372,"370, Stagg Street, Brooklyn, Kings County, New York, 11206, United States",11206
+3086,3758.0,40.702997,-73.92997,"107, George Street, Brooklyn, Kings County, New York, 11237, United States",11237
+3087,3759.0,40.70538,-73.92535,"343, Jefferson Street, Brooklyn, Kings County, New York, 11237, United States",11237
+3088,3760.0,40.705614,-73.92153,"1315, Willoughby Avenue, Brooklyn, Kings County, New York, 11237, United States",11237
+3089,3761.0,40.697842,-73.926241,"85, Cedar Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+3090,3762.0,40.677027,-73.9865,"294, 3rd Avenue, Gotham Greens, Brooklyn, Kings County, New York, 11215, United States",11215
+3091,3763.0,40.707165,-73.923711,"House of Yes, 2, Wyckoff Avenue, Brooklyn, Kings County, New York, 11385, United States",11385
+3092,3764.0,40.705517,-73.93936,"315, Bushwick Avenue, Brooklyn, Kings County, New York, 11206, United States",11206
+3093,3766.0,40.715353,-73.93856,"8, Sharon Street, Brooklyn, Kings County, New York, 11211, United States",11211
+3094,3767.0,40.71323,-73.93894,"Olive Street Community Garden, Powers Street, Brooklyn, Kings County, New York, 11211, United States",11211
+3095,3769.0,40.707174,-73.93581,"305, Boerum Street, Brooklyn, Kings County, New York, 11206, United States",11206
+3096,3771.0,40.706237,-73.933871,"390, McKibbin Street, Brooklyn, Kings County, New York, 11206, United States",11206
+3097,3772.0,40.713811,-73.93515,"372, Devoe Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+3098,3775.0,40.702013,-73.923769,"Pupuseria, Suydam Street, Brooklyn, Kings County, New York, 11237, United States",11237
+3099,3776.0,40.700003,-73.92834,"128, Central Avenue, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+3682,3479.0,40.68512559515415,-74.02535319328308,"928, South Craig Road, Nolan Park, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",10004
+3882,3765.0,40.709897,-73.94008000000002,"The High School of Enterprise, Business, and Technology, 850, Grand Street, Brooklyn, Kings County, New York, 11211, United States",11211
+3885,3768.0,40.71019,-73.93734,"The High School of Enterprise, Business, and Technology, 850, Grand Street, Brooklyn, Kings County, New York, 11211, United States",11211
+3887,3770.0,40.702831,-73.9333,"1, Central Avenue, Brooklyn, Kings County, New York, 11206, United States",11206
+3890,3773.0,40.70539,-73.92976,"97, Knickerbocker Avenue, Brooklyn, Kings County, New York, 11237, United States",11237
+3891,3774.0,40.704425,-73.92836,"146, Knickerbocker Avenue, Brooklyn, Kings County, New York, 11237, United States",11237
+3894,3777.0,40.699304,-73.92304399999998,"156, Stockholm Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+3895,3778.0,40.7027,-73.92095,"142, Irving Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+3896,3781.0,40.698568,-73.918877,"1309, Greene Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+3897,3787.0,40.69985,-73.97140999999998,"Citi Bike, Market Street, Brooklyn Navy Yard, Brooklyn, Kings County, New York, 11205, United States",11205
+3898,3788.0,40.73269000000001,-73.98974,"109, East 12th Street, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+3899,3790.0,40.7003,-73.99158100000002,"20, Henry Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11201, United States",11201
+4695,3779.0,40.704876,-73.919911,"983, Hart Street, Brooklyn, Kings County, New York, 11237, United States",11237
+5577,250.0,40.72456089,-73.99565293,"Citi Bike - Lafayette St & Jersey St, Lafayette Street, Little Italy, Manhattan Community Board 2, Manhattan, New York County, New York, 10012-3332, United States",10012-3332
+5734,464.0,40.75934501,-73.96759673,"201, East 56th Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+5953,3287.0,40.789622,-73.97757,"301, West 87th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10024, United States",10024
+6326,3803.0,40.665816,-73.95693399999998,"220, Montgomery Street, Brooklyn, Kings County, New York, 11225, United States",11225
+6327,3804.0,40.702461,-73.98684200000002,"DUMBO Historic District Proposal, Brooklyn-Queens Expressway, DUMBO, Brooklyn, Kings County, New York, 11201-1832, United States",11201-1832
+6328,3809.0,40.763201,-73.97845799999997,"101, West 55th Street, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+6329,3810.0,40.782593,-73.971211,"Central Park West & West 81st Street, Central Park Outer Loop, Manhattan, New York County, New York, 10024, United States",10024
+6563,488.0,40.75645824,-73.99372222,"Citi Bike - W 39 St & 9 Ave, West 39th Street, Garment District, Manhattan Community Board 4, Manhattan, New York County, New York, 10018, United States",10018
+6794,3325.0,40.7849032,-73.950503,"1700, 3rd Avenue, Carnegie Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10128, United States",10128
+7131,3805.0,40.776173,-73.959757,"100, East 80th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10075, United States",10075
+7134,3811.0,40.77485,-73.9342,"3-02, 27th Avenue, Astoria, Queens, Queens County, New York, 11102, United States",11102
+7135,3812.0,40.734814,-73.992085,"126, University Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10003, United States",10003
+7136,3816.0,40.71429000000001,-73.93323000000002,"1110, Metropolitan Avenue, Brooklyn, Kings County, New York, 11211, United States",11211
+7137,3817.0,40.71773,-73.94051,"266, Withers Street, Williamsburg, Brooklyn, Kings County, New York, 11211, United States",11211
+7138,3818.0,40.72984,-73.94839,"293, Calyer Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+7139,3819.0,40.73396,-73.95204,"RH Victory, 336, McGuinness Boulevard, Brooklyn, Kings County, New York, 11222, United States",11222
+7140,3820.0,40.69757,-73.93098,"Little Skips, 943, Willoughby Avenue, Brooklyn, Kings County, New York, 11221, United States",11221
+7141,3821.0,40.70106,-73.93318000000002,"74, Evergreen Avenue, Bushwick, Brooklyn, Kings County, New York, 11206, United States",11206
+7142,3822.0,40.70076,-73.93641,"484, Bushwick Avenue, Brooklyn, Kings County, New York, 11206, United States",11206
+7143,3823.0,40.70099,-73.93921,"10, Beaver Street, Brooklyn, Kings County, New York, 11206, United States",11206
+7144,3842.0,40.69502,-73.92825,"DeKalb Library, 790, Bushwick Avenue, Brooklyn, Kings County, New York, 11221, United States",11221
+7145,3853.0,40.70686,-73.92851,"122, Harrison Place, Brooklyn, Kings County, New York, 11237, United States",11237
+7146,3854.0,40.716657,-73.93637,"358, Morgan Avenue, Brooklyn, Kings County, New York, 11211, United States",11211
+7147,3858.0,40.73124,-73.95161,"221, Kent Street, Brooklyn, Kings County, New York, 11222, United States",11222
+7932,3780.0,40.703545,-73.917775,"Wyckoff Heights Medical Center, 374, Stockholm Street, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7951,3815.0,40.755293,-73.967641,"306, East 51st Street, Turtle Bay, Manhattan Community Board 6, Manhattan, New York County, New York, 10022, United States",10022
+7960,3826.0,40.68458,-73.90925,"55, Moffat Street, Brooklyn, Kings County, New York, 11207, United States",11207
+7961,3827.0,40.68565,-73.91564,"Rite Aid 24 Hours, 915, Macon Street, BEDFORD STUYVESANT/ EXPANDED STUYVEVSANT HEIGHTS HISTORIC DISTRICT, Brooklyn, Kings County, New York, 11233, United States",11233
+7962,3828.0,40.68652,-73.91320999999998,"50, Eldert Street, Brooklyn, Kings County, New York, 11207, United States",11207
+7963,3829.0,40.6882,-73.90798000000002,"1160, Decatur Street, Brooklyn, Kings County, New York, 11207, United States",11207
+7964,3834.0,40.69467,-73.90663,"501, Irving Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7965,3836.0,40.69146,-73.92146,"1025, Bushwick Avenue, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7966,3837.0,40.69329000000001,-73.92851999999998,"662, Kosciuszko Street, Brooklyn, Kings County, New York, 11221, United States",11221
+7967,3838.0,40.69356,-73.92524,"898, Bushwick Avenue, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7968,3839.0,40.69545,-73.91164,"1398, Putnam Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7969,3840.0,40.69811,-73.90904,"1544, Putnam Avenue, Ridgewood, Brooklyn, Kings County, New York, 11237, United States",11237
+7970,3841.0,40.69543,-73.9196,"120, Menahan Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7972,3843.0,40.69905,-73.91516,"Arboleda de Ninos/Children's Grove, 1480, Myrtle Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7973,3844.0,40.69943,-73.91337,"BMT Myrtle Avenue Line, Harrison Place, Brooklyn, Kings County, New York, 11237, United States",11237
+7974,3845.0,40.70108,-73.9179,"215, Irving Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7975,3846.0,40.69676,-73.92302,"112, Himrod Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7976,3847.0,40.69671,-73.92806999999998,"37, Cedar Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7977,3848.0,40.69544000000001,-73.93223,"1, Suydam Street, Brooklyn, Kings County, New York, 11221, United States",11221
+7978,3849.0,40.70636,-73.91945,"432, Suydam Street, Brooklyn, Kings County, New York, 11237, United States",11237
+7979,3850.0,40.70907,-73.92156999999997,"476, Jefferson Street, Brooklyn, Kings County, New York, 11237, United States",11237
+7980,3851.0,40.71401,-73.92793,"Metropolitan Avenue, Brooklyn, Kings County, New York, 11415, United States",11415
+7981,3852.0,40.70869,-73.92586999999997,"525, Johnson Avenue, Brooklyn, Kings County, New York, 11237, United States",11237
+7984,3855.0,40.71882,-73.93948,"292, Frost Street, Brooklyn, Kings County, New York, 11211, United States",11211
+7985,3856.0,40.72577,-73.94173,"262, Kingsland Avenue, Brooklyn, Kings County, New York, 11222, United States",11222
+7986,3857.0,40.72158,-73.94546,"129, Engert Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+7988,3860.0,40.70166,-73.92754000000002,"95, Wilson Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7989,3861.0,40.70113,-73.91422,"334, Menahan Street, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7990,3862.0,40.69714000000001,-73.91566,"262, Linden Street, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+7991,3863.0,40.69296,-73.91605,"440, Central Avenue, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7992,3864.0,40.68929,-73.90951,"161, Covert Street, Bushwick, Brooklyn, Kings County, New York, 11207, United States",11207
+7993,3865.0,40.69081,-73.90448,"249, Cooper Street, Ridgewood, Brooklyn, Kings County, New York, 11207, United States",11207
+7994,3869.0,40.692,-73.92617,"585, Van Buren Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7995,3870.0,40.697481,-73.935877,"15, Melrose Street, Brooklyn, Kings County, New York, 11206, United States",11206
+7996,3879.0,40.68822,-73.91966,"1439, Broadway, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7997,3881.0,40.818299,-73.96040500000002,"2284, 12th Avenue, Manhattanville, Manhattan Community Board 9, Manhattan, New York County, New York, 10027, United States",10027
+7998,3890.0,40.69047,-73.923511,"Family Dollar, 1317, Broadway, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+7999,3891.0,40.698,-73.9127,"339, Palmetto Street, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+8140,367.0,40.75828065,-73.97069431,"Citi Bike - E 53 St & Lexington Ave, East 53rd Street, Midtown East, Manhattan Community Board 6, Manhattan, New York County, New York, 10152, United States",10152
+8411,3246.0,40.694281141397326,-73.99230033159256,"Court Street, Montague Street, Brooklyn Heights, Brooklyn, Kings County, New York, 11201, United States",11201
+8797,3814.0,40.761573,-73.972628,"Citi Bike - E 56 St & Madison Ave, East 56th Street, Midtown East, Manhattan Community Board 5, Manhattan, New York County, New York, 10022, United States",10022
+8807,3824.0,40.6786,-73.90369,"Broadway Junction (A,C), Van Sinderen Avenue, Broadway Junction, Brooklyn, Kings County, New York, 11207, United States",11207
+8808,3825.0,40.68139,-73.90756,"Broadway & Aberdeen Street, Broadway, Ocean Hill, Brooklyn, Kings County, New York, 11207, United States",11207
+8813,3830.0,40.68858,-73.91226999999998,"1084, Halsey Street, Bushwick, Brooklyn, Kings County, New York, 11207, United States",11207
+8814,3831.0,40.68663,-73.9168,"979, Hancock Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+8815,3832.0,40.69055,-73.91181,"550, Central Avenue, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+8816,3833.0,40.69122,-73.91693000000002,"1079, Madison Street, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+8818,3835.0,40.69385,-73.90974,"730, Knickerbocker Avenue, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+8848,3866.0,40.68906,-73.90505999999998,"642, Wilson Avenue, Brooklyn, Kings County, New York, 11207, United States",11207
+8849,3867.0,40.67945,-73.90474,"176, Somers Street, Broadway Junction, Brooklyn, Kings County, New York, 11233, United States",11233
+8850,3868.0,40.69300000000001,-73.90824,"763, Knickerbocker Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+8853,3871.0,40.68281,-73.90623000000002,"1508, Bushwick Avenue, Broadway Junction, Brooklyn, Kings County, New York, 11207, United States",11207
+8854,3872.0,40.6972,-73.90674,"9-01, Wyckoff Avenue, Ridgewood, Brooklyn, Kings County, New York, 11385, United States",11385
+8855,3873.0,40.70068,-73.90742,"Ridgewood Theater, Madison Street, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8856,3874.0,40.70461,-73.91054,"1811A, Menahan Street, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8857,3875.0,40.6988,-73.9007,"Iglesia Pentecostal Elim, Stephen Street, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8858,3876.0,40.69922,-73.89795,"73-20, Forest Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8859,3878.0,40.69812,-73.90271,"996, Cypress Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8861,3880.0,40.7098,-73.91727,"1817, Willoughby Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8863,3882.0,40.69517000000001,-73.90311,"1051, Wyckoff Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8864,3883.0,40.70577,-73.91292,"1738, Harman Street, Bushwick, Brooklyn, Kings County, New York, 11385, United States",11385
+8865,3885.0,40.70413,-73.90737,"675, Onderdonk Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8866,3886.0,40.70553,-73.9096,"1861, Menahan Street, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8867,3887.0,40.71246,-73.91873000000002,"24, Woodward Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8870,3892.0,40.75473,-73.93366999999998,"28-17, 38th Avenue, Queens, Queens County, New York, 11101, United States",11101
+8871,3893.0,40.68319988172761,-73.91166642308234,"18, Rockaway Avenue, Ocean Hill, Brooklyn, Kings County, New York, 11233, United States",11233
+8872,3895.0,40.70157340873792,-73.90876293182373,"712, Cypress Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8873,3896.0,40.70183,-73.90625,"1746, Madison Street, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+8874,3898.0,40.763954,-73.9646,"200, East 63rd Street, Lenox Hill, Manhattan Community Board 8, Manhattan, New York County, New York, 10065, United States",10065
+8875,3899.0,40.72084,-73.94844,"Junior High School 126, Manhattan Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+8876,3900.0,40.72226,-73.93889,"535, Morgan Avenue, Brooklyn, Kings County, New York, 11222, United States",11222
+8877,3901.0,40.70998,-73.91116,"B38, Stanhope Street, Ridgewood, Queens, Queens County, New York, 11237, United States",11237
+8878,3903.0,40.68989000000001,-73.91458,"1163, Jefferson Avenue, Bushwick, Brooklyn, Kings County, New York, 11221, United States",11221
+8879,3908.0,40.70463,-74.01507,"Netherland Monument, Battery Place, Financial District, Manhattan Community Board 1, Manhattan, New York County, New York, 10275, United States",10275
+9779,3731.0,40.758397,-73.98255,"Rockefeller Center, 45, Rockefeller Plaza, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10111, United States",10111
+9783,3739.0,40.735918,-74.000939,"1, Perry Street, West Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10014, United States",10014
+9784,3740.0,40.726378,-74.000472,"464, West Broadway, SoHo, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",10012
+9785,3744.0,40.725864,-73.986389,"100, 1st Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",10009
+9821,3785.0,40.75492,-73.98455,"1095 Avenue Of The Americas, 1095, 6th Avenue, Theater District, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",10019
+9884,3859.0,40.72795,-73.95414,"1093, Lorimer Street, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",11222
+9902,3877.0,40.70555,-73.90245,"Ridgewood Branch Queens Borough Public Library, 2012, Madison Street, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+9909,3884.0,40.69969,-73.9022,"1809, Centre Street, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+9913,3888.0,40.70793,-73.91091999999998,"466, Woodward Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+9920,3897.0,40.70863,-73.91497,"315, Onderdonk Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+9925,3902.0,40.70694,-73.90632,"618, Fairview Avenue, Ridgewood, Queens, Queens County, New York, 11385, United States",11385
+9927,3907.0,40.70112,-73.93039,"67, Central Avenue, Bushwick, Brooklyn, Kings County, New York, 11206, United States",11206
+9929,3909.0,40.70408,-73.90408000000002,"BMT Myrtle Avenue Line, Harrison Place, Brooklyn, Kings County, New York, 11237, United States",11237
+9930,3910.0,40.709697,-73.90785600000002,"Post Box, Greene Avenue, Bushwick, Brooklyn, Kings County, New York, 11237, United States",11237
+9931,3911.0,40.683426,-73.984275,"259, Wyckoff Street, Boerum Hill, Brooklyn, Kings County, New York, 11217, United States",11217
